@@ -307,3 +307,52 @@ Note: The sticker names in alphabetical order are not placed together.
 I is placed second to the left of U. Two stickers are placed between U and T. T is placed immediate left of R and vice versa. Not more than one sticker is placed between U and R, when counted from the right of R. E is placed second to the left of O and vice versa. The number of stickers placed between E and T is one more than the number placed between I and S, when counted from the left of both I and T. As many stickers are placed between S and C as between C and N.
 
 THANK YOU Champions!!
+
+
+## 011. Seating Arrangement Lecture – 11 (Linear - FIX Direction)
+
+Single Straight Line - FIX Direction
+
+Directions (171-175):
+Seven persons D, G, H, K, L, N, and P are sitting in a row facing towards the north direction, not necessarily in the same order.  
+- P is not sitting immediately next to H.  
+- Three persons are sitting between L and K.  
+- L is sitting immediately next to G at one end.  
+- H is not sitting immediately next to K.  
+- G is sitting fifth to the left of N.  
+
+Directions (176-180):
+Eight persons—J, K, L, M, N, O, P, and Q—are sitting in a linear row facing north, not necessarily in the same order.  
+- One person is sitting between J and K.  
+- Q is sitting second to the right of P.  
+- The number of persons sitting between P and L is equal to the number of persons sitting between K and O when counted from the right of L and the left of O.  
+- Neither P nor M is sitting at the end of the row.  
+- N is sitting third to the left of K.  
+- M is not an immediate neighbor of N.  
+- O is not an immediate neighbor of J.  
+- Q is an immediate neighbor of M.  
+
+Directions (181-185):
+Ten persons—P, Q, R, S, T, U, V, W, X, and Y—are sitting in a linear row. Persons sitting on alternate seats face the same direction.  
+- Q is sitting immediately to the left of W.  
+- Three persons are sitting between Q and X.  
+- Y is sitting third to the right of T.  
+- Y is not sitting at the end of the row.  
+- S is sitting second to the left of U.  
+- V is facing the north direction.  
+- U is sitting third to the right of R.  
+- X is sitting second to the left of P.  
+- S is sitting at the end of the row.  
+
+Directions (186-190):
+Ten people—J, K, L, M, N, O, P, Q, R, and S—are sitting in a straight line, but not necessarily in the same order. All of them are facing towards the south direction.  
+- Only one person sits between N and P.  
+- R sits immediately to the right of M.  
+- Two persons sit between L and J.  
+- At most, two persons sit to the right of K.  
+- The number of persons sitting to the left of K is the same as the number of persons sitting to the right of L.  
+- O sits immediately to the left of L.  
+- The number of persons sitting to the right of N is one more than the number of persons sitting to the left of N.  
+- S sits to the right of Q.  
+
+THANK YOU, CHAMPIONS!!
