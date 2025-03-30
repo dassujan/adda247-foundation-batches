@@ -270,3 +270,40 @@ A sits third to the right of B. Two persons sit between B and G, who faces the i
 THANK  
 YOU  
 Champions!!
+
+## 009. Seating Arrangement Lecture – 9 (Square/Rectangle/Triangular Based)
+
+Square & Rectangle Based (Side Based - Mix Direction)
+
+Directions (116-120):  
+Eight persons – A, B, C, D, E, F, G and H are sitting on a square table, but not necessarily in the same order. Two persons are sitting on each side of the table. Four of them are facing inside while the rest are facing outside the table. No two adjacent persons face the same direction.  
+A sits third to the right of B. Two persons sit between B and G, who faces the immediate neighbour of E. E sits on the opposite side of G. F faces the person who sits second to the left of D, but doesn't sit adjacent to G. The number of persons sitting between C and H is one less than the number between F and D, when counted from the left of both C and D. Neither A nor G sits immediate left of H.
+
+Directions (121-125):  
+Ten people – J, K, L, M, N, O, P, Q, R and S – are sitting around the rectangular table. Four persons sit at the corner, two persons sit on the longer sides, and one person sits at each smaller side. Each person at the corner faces inside the table, while those on the sides face outside the table.  
+P faces the person who sits third to the left of M. M sits three places away from N, who sits opposite K. Three persons sit between K and R, who sits two places away from Q. J sits fourth to the left of L, who sits two places away from S. Neither K nor M sits adjacent to L. Both P and O are not sitting adjacent to each other.
+
+Triangular Arrangement
+
+Directions (126-130):  
+Six persons – Rohit, Raj, Harish, Dev, Mohan and Chetan – are sitting around a triangular table, facing the centre. Three persons are sitting at the corners while three persons are sitting at the sides, not necessarily in the same order.  
+Chetan sits 2nd to the right of Rohit. Raj is the immediate right of Mohan. One person is sitting in between Mohan and Chetan, who is not adjacent to Raj. One person is sitting between Harish and Dev when counted from the left of Harish.
+
+Directions (131-135):  
+Six people – G, J, N, O, R and S – were sitting on a triangular table such that one person sat at each corner and one person sat at each side of the table. Some were facing towards the centre and some were facing away from the centre.  
+O and R were facing the same direction. One person was sitting between R and N. S and N were facing the same direction. Immediate neighbours of R were facing outside the centre. S was sitting immediate right of O at the corner. N, who was sitting at the corner, was third to the right of G. N was sitting second to the right of S. Two persons were sitting between R and O. R was sitting immediate right of G.
+
+Directions (136-140):  
+Nine persons – P, Q, R, S, T, U, V, W and X – are sitting around a triangular table but not necessarily in the same order. Two persons are sitting on each side and one person is sitting at each corner of the table. Persons sitting on the sides are facing inside the table and those at the corners are facing outside.  
+Q is sitting immediate left of V. T is sitting third right of U. V is sitting second right of X. U is neither sitting immediate next to X nor sitting at the corner. T is sitting second left of R. S and W are sitting immediate right of each other. W is sitting second left of P. W is not sitting immediate next to R.
+
+Directions (141-145):  
+Nine people – P, Q, R, S, T, U, V, W and X – are sitting around a triangular table. Three of them occupy the corners and face away from the centre, while the remaining six sit on each side facing towards the centre (with two persons on each side).  
+Three persons are sitting between U and X. W is sitting second left of U. X is sitting immediately right of V. Both Q and T are sitting fourth left of each other. One person is sitting between Q and P. S is not sitting at the corner. Two persons are sitting between S and T. P is sitting immediate right of R. If V is sitting at the corner then U is sitting on the side or vice-versa.
+
+Directions (146-150):  
+Nine letter stickers – C, E, I, N, O, R, S, T and U – are placed on the triangular table in such a way that two are placed on each side and three are placed on each corner. The sticker placed in the corner is facing outside and the sticker placed in the middle is facing the centre.  
+Note: The sticker names in alphabetical order are not placed together.  
+I is placed second to the left of U. Two stickers are placed between U and T. T is placed immediate left of R and vice versa. Not more than one sticker is placed between U and R, when counted from the right of R. E is placed second to the left of O and vice versa. The number of stickers placed between E and T is one more than the number placed between I and S, when counted from the left of both I and T. As many stickers are placed between S and C as between C and N.
+
+THANK YOU Champions!!
