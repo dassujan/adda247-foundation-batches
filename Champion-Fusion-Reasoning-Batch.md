@@ -3,10 +3,10 @@
 ## 003. Seating Arrangement Lecture – 3  (Circle Based Questions)
 
 I. Based on Bounded Bodies  
-(Ex:- Circle, Rectangle, Square, Triangle, Pentagon, Hexagon etc)
+(Ex:Circle, Rectangle, Square, Triangle, Pentagon, Hexagon etc)
 
 II. Based on Linear Bodies  
-(Ex:- Straight line, Parallel line etc.)
+(Ex:Straight line, Parallel line etc.)
 
 Types Of Arrangements
  
@@ -25,7 +25,7 @@ Words like who, which, whose, whom etc.
 
 ➢ How does the word ‘who’ work?  
  The word, if used in any sentence, works like a relative pronoun. This means it will be related with the 2nd element of the given sentence.  
- Ex:- A is 2nd right of B who is 3rd left of C.  
+ Ex:A is 2nd right of B who is 3rd left of C.  
    Here, the word ‘who’ will get related with ‘B’.
  
 
@@ -34,7 +34,7 @@ Words like and, but, while, (is), etc.
 
 ➢ How does the word ‘and’ work?  
  The word, if used in any sentence, works like a conjunction. This means it will be connected with the 1st element of the given sentence.  
- Ex:- A is 2nd right of B and is 3rd left of C.  
+ Ex:A is 2nd right of B and is 3rd left of C.  
    Here, the word ‘and’ will connect with ‘A’.
  
 
@@ -172,13 +172,13 @@ G sits second to the right of C. Two persons sit between G and F, who is not an 
  
 
 **Directions (56-60):**  
-Eight persons - J, K, L, M, N, O, P and Q are sitting around a circular table such that some of them are facing inside while some are facing outside the table, but not necessarily in the same order. Not more than two adjacent persons face the same direction.  
+Eight persons J, K, L, M, N, O, P and Q are sitting around a circular table such that some of them are facing inside while some are facing outside the table, but not necessarily in the same order. Not more than two adjacent persons face the same direction.  
 M sits second to the right of N, where both are facing opposite directions. N sits opposite to P, who sits second to the left of O. Only two persons sit between J and O, when counted from the right of O. Both J and P face the same direction. Q faces inside. Only three persons sit between J and L, who sits second to the right of Q. Both K and Q face opposite directions. The number of persons facing outside is two more than the number of persons facing inside. L doesn’t face outside.
 
  
 
 **Directions (61-65):**  
-Nine persons - A, B, C, D, E, F, G, H and I are sitting around a circular table in such a way that some of them are facing the centre while some of them are facing outside (opposite to the centre) with equal distance between adjacent persons. Not more than two adjacent persons are facing the same direction.  
+Nine persons A, B, C, D, E, F, G, H and I are sitting around a circular table in such a way that some of them are facing the centre while some of them are facing outside (opposite to the centre) with equal distance between adjacent persons. Not more than two adjacent persons are facing the same direction.  
 C sits second to the right of A. Two persons sit between C and D. F sits third to the left of D. H sits second to the left of F, who faces opposite to the centre. B sits third to the right of H and is an immediate neighbour of I. G sits fourth to the right of E, who does not sit adjacent to F. Both B and I face the same direction to each other.
 
 
@@ -189,7 +189,7 @@ Champions!!
 ## 006. Seating Arrangement Lecture – 6  (Circle Based Mixed Direction)
 
 **Directions (61-65):**  
-Nine persons - A, B, C, D, E, F, G, H and I are sitting around a circular table in such a way that some of them are facing the centre while some of them are facing outside (opposite to the centre) with equal distance between adjacent persons. Not more than two adjacent persons are facing the same direction.  
+Nine persons A, B, C, D, E, F, G, H and I are sitting around a circular table in such a way that some of them are facing the centre while some of them are facing outside (opposite to the centre) with equal distance between adjacent persons. Not more than two adjacent persons are facing the same direction.  
 C sits second to the right of A. Two persons sit between C and D. F sits third to the left of D. H sits second to the left of F, who faces opposite to the centre. B sits third to the right of H and is an immediate neighbour of I. G sits fourth to the right of E, who does not sit adjacent to F. Both B and I face same direction to each other.
 
  
@@ -216,7 +216,7 @@ THANK YOU
 Champions!!
 
 
-## 007. Seating Arrangement Lecture – 7  (Square & Rectangle Based - Mix Direction)
+## 007. Seating Arrangement Lecture – 7  (Square & Rectangle Based Mix Direction)
 
 
 Square & Rectangle Based  
@@ -248,12 +248,12 @@ Champions!!
  
 
 Square & Rectangle Based  
-(Side Based - Fix Direction)
+(Side Based Fix Direction)
    
-Directions (101-105): Eight persons- R, S, T, U, V, W, X, and Y are sitting on the rectangular table facing the center. One person sits on each smaller side and three persons sit on each longer side of the table. All the information is not necessarily in the same order.  
+Directions (101-105): Eight personsR, S, T, U, V, W, X, and Y are sitting on the rectangular table facing the center. One person sits on each smaller side and three persons sit on each longer side of the table. All the information is not necessarily in the same order.  
 Y sits third to the left of S. S sits immediate right of W who sits on the smaller side of the table. Only one person sits between S and U. T sits immediate left of R, both are sitting on different sides. The number of persons sits between T and Y is the same as the number of persons sits between Y and W. V neither sits adjacent to S nor T.
    
-Directions (106-110): Eight persons- I, J, K, L, M, N, O and P sit on the rectangular table facing the centre but not necessarily in the same order. Three persons sit on each longer side whereas one person sits on each smaller side of the table. The consecutive alphabetically named persons are not sitting together.  
+Directions (106-110): Eight personsI, J, K, L, M, N, O and P sit on the rectangular table facing the centre but not necessarily in the same order. Three persons sit on each longer side whereas one person sits on each smaller side of the table. The consecutive alphabetically named persons are not sitting together.  
 P sits second to the left of J and sits on the longer side of the table. Only two persons sit between O and J. M sits second to the right of I who does not sit opposite to O. M neither sits opposite to P nor I. The number of persons sitting between I and O is the same as the number of persons sitting between L and J. L and P are not immediate neighbours. N and L are not immediate neighbours.
    
 Directions (111-115): Ten persons A, B, C, D, E, F, G, H, I and J are sitting around a rectangular table facing towards the centre. Three persons are sitting on each of the longer sides and two persons are sitting on each of the smaller sides.  
@@ -261,9 +261,9 @@ C is neither sitting immediate to G nor to I. Both H and I are sitting on the sm
 
 
 Square & Rectangle Based  
-(Side Based - Mix Direction)
+(Side Based Mix Direction)
    
-Directions (116-120): Eight persons - A, B, C, D, E, F, G and H are sitting on a square table, but not necessarily in the same order. Two persons are sitting on each side of the table. Four of them are facing inside while the rest facing outside the table. No two adjacent persons face the same direction.  
+Directions (116-120): Eight persons A, B, C, D, E, F, G and H are sitting on a square table, but not necessarily in the same order. Two persons are sitting on each side of the table. Four of them are facing inside while the rest facing outside the table. No two adjacent persons face the same direction.  
 A sits third to the right of B. Two persons sit between B and G, who faces the immediate neighbour of E. E sits on the opposite side of G. F faces the person who sits second to the left of D, but doesn't sit adjacent to G. The number of persons sitting between C and H is one less than between F and D, when counted from the left of both C and D. Neither A nor G sits immediate left of H.
 
 
@@ -273,7 +273,7 @@ Champions!!
 
 ## 009. Seating Arrangement Lecture – 9 (Square/Rectangle/Triangular Based)
 
-Square & Rectangle Based (Side Based - Mix Direction)
+Square & Rectangle Based (Side Based Mix Direction)
 
 Directions (116-120):  
 Eight persons – A, B, C, D, E, F, G and H are sitting on a square table, but not necessarily in the same order. Two persons are sitting on each side of the table. Four of them are facing inside while the rest are facing outside the table. No two adjacent persons face the same direction.  
@@ -309,50 +309,50 @@ I is placed second to the left of U. Two stickers are placed between U and T. T 
 THANK YOU Champions!!
 
 
-## 011. Seating Arrangement Lecture – 11 (Linear - FIX Direction)
+## 011. Seating Arrangement Lecture – 11 (Linear FIX Direction)
 
-Single Straight Line - FIX Direction
+Single Straight Line FIX Direction
 
 Directions (171-175):
 Seven persons D, G, H, K, L, N, and P are sitting in a row facing towards the north direction, not necessarily in the same order.  
-- P is not sitting immediately next to H.  
-- Three persons are sitting between L and K.  
-- L is sitting immediately next to G at one end.  
-- H is not sitting immediately next to K.  
-- G is sitting fifth to the left of N.  
+P is not sitting immediately next to H.  
+Three persons are sitting between L and K.  
+L is sitting immediately next to G at one end.  
+H is not sitting immediately next to K.  
+G is sitting fifth to the left of N.  
 
 Directions (176-180):
 Eight persons—J, K, L, M, N, O, P, and Q—are sitting in a linear row facing north, not necessarily in the same order.  
-- One person is sitting between J and K.  
-- Q is sitting second to the right of P.  
-- The number of persons sitting between P and L is equal to the number of persons sitting between K and O when counted from the right of L and the left of O.  
-- Neither P nor M is sitting at the end of the row.  
-- N is sitting third to the left of K.  
-- M is not an immediate neighbor of N.  
-- O is not an immediate neighbor of J.  
-- Q is an immediate neighbor of M.  
+One person is sitting between J and K.  
+Q is sitting second to the right of P.  
+The number of persons sitting between P and L is equal to the number of persons sitting between K and O when counted from the right of L and the left of O.  
+Neither P nor M is sitting at the end of the row.  
+N is sitting third to the left of K.  
+M is not an immediate neighbor of N.  
+O is not an immediate neighbor of J.  
+Q is an immediate neighbor of M.  
 
 Directions (181-185):
 Ten persons—P, Q, R, S, T, U, V, W, X, and Y—are sitting in a linear row. Persons sitting on alternate seats face the same direction.  
-- Q is sitting immediately to the left of W.  
-- Three persons are sitting between Q and X.  
-- Y is sitting third to the right of T.  
-- Y is not sitting at the end of the row.  
-- S is sitting second to the left of U.  
-- V is facing the north direction.  
-- U is sitting third to the right of R.  
-- X is sitting second to the left of P.  
-- S is sitting at the end of the row.  
+Q is sitting immediately to the left of W.  
+Three persons are sitting between Q and X.  
+Y is sitting third to the right of T.  
+Y is not sitting at the end of the row.  
+S is sitting second to the left of U.  
+V is facing the north direction.  
+U is sitting third to the right of R.  
+X is sitting second to the left of P.  
+S is sitting at the end of the row.  
 
 Directions (186-190):
 Ten people—J, K, L, M, N, O, P, Q, R, and S—are sitting in a straight line, but not necessarily in the same order. All of them are facing towards the south direction.  
-- Only one person sits between N and P.  
-- R sits immediately to the right of M.  
-- Two persons sit between L and J.  
-- At most, two persons sit to the right of K.  
-- The number of persons sitting to the left of K is the same as the number of persons sitting to the right of L.  
-- O sits immediately to the left of L.  
-- The number of persons sitting to the right of N is one more than the number of persons sitting to the left of N.  
-- S sits to the right of Q.  
+Only one person sits between N and P.  
+R sits immediately to the right of M.  
+Two persons sit between L and J.  
+At most, two persons sit to the right of K.  
+The number of persons sitting to the left of K is the same as the number of persons sitting to the right of L.  
+O sits immediately to the left of L.  
+The number of persons sitting to the right of N is one more than the number of persons sitting to the left of N.  
+S sits to the right of Q.  
 
 THANK YOU, CHAMPIONS!!
