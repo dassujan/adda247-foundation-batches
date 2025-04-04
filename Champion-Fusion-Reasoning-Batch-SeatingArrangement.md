@@ -72,8 +72,7 @@ Eight people i.e., A, B, C, D, E, F, G and H are sitting on a circular table, bu
 Only 1 person sits between G and H. The number of people sitting between E and F when counted to the right of E is the same as the number of people sitting between F and A when counted to the left of A. F faces the person who sits immediately to the left of H. C is neither an immediate neighbor of F nor an immediate neighbor of D. E sits immediately to the right of H. D sits 2nd to the right of B.
  
 
-THANK YOU  
-Champions!!
+THANK YOU Champions!!
 
 
 ## 004. Seating Arrangement Lecture – 4 (Circle Based Questions)
@@ -89,8 +88,6 @@ E sits to immediate right of H.
 D sits 2nd to right of B.
 
 
- 
-
 Directions (16-20): Eight persons A, B, C, D, E, F, G and H are sitting around a circular table, but not necessarily in the same order.  
 All of them are facing towards the centre of the table.  
 D is the neighbor of H.  
@@ -101,8 +98,6 @@ C sits second to the right of B.
 Only one person sits between F and H.  
 The number of persons sitting between H and D when counted from the right of H is same as the number of persons sitting between B and G when counted from the left of B.
 
-
- 
 
 Circle Based – Odd Number of Person
 
@@ -126,7 +121,6 @@ W is not sitting immediate to F.
 One person is sitting between Z and F.
 
  
-
 Directions (31-35): Seven persons P, Q, R, S, T, U and V are sitting around a circular table, facing outside the table but not necessarily in the same order.  
 P is sitting third left of V.  
 Three persons are sitting between R and S.  
@@ -147,8 +141,7 @@ J is not an immediate neighbor of O.
 Number of persons sitting between M and P is half of the number of persons sitting between P and R.  
 P is not an immediate neighbor of M.
 
-THANK YOU  
-Champions!!
+THANK YOU Champions!!
 
 
 ## 005. Seating Arrangement Lecture – 5  (Circle Based Mixed Direction)
@@ -164,26 +157,22 @@ Eight people A, B, C, D, E, F, G, and H are sitting around a circular table. Som
 Both the neighbors of G face the opposite direction to G. G sits opposite to H. More than one person sits between D and H. Two persons sit between A and B. C sits third to the right of B. The number of persons face outside is more than the number of persons face inside. A and G face the same direction as F. F sits opposite to C and facing C. D sits adjacent to B. H and E face the same directions as B.
 
  
-
 Directions (51-55):  
 Seven persons viz., A, B, C, D, E, F and G are sitting around a circular table in such a way that some are facing the centre while some are facing away from the centre.  
 G sits second to the right of C. Two persons sit between G and F, who is not an immediate neighbour of C. D, who sits adjacent to neither C nor G but sits second to the right of A. Immediate neighbours of C are facing the same direction. B sits second to the left of E, who is not an immediate neighbour of D. Immediate neighbours of G are facing the same direction but opposite to G, who is facing the same direction as F. B does not sit immediate left of D, who is facing the centre.
 
  
-
 Directions (56-60):  
 Eight persons J, K, L, M, N, O, P and Q are sitting around a circular table such that some of them are facing inside while some are facing outside the table, but not necessarily in the same order. Not more than two adjacent persons face the same direction.  
 M sits second to the right of N, where both are facing opposite directions. N sits opposite to P, who sits second to the left of O. Only two persons sit between J and O, when counted from the right of O. Both J and P face the same direction. Q faces inside. Only three persons sit between J and L, who sits second to the right of Q. Both K and Q face opposite directions. The number of persons facing outside is two more than the number of persons facing inside. L doesn’t face outside.
 
  
-
 Directions (61-65):  
 Nine persons A, B, C, D, E, F, G, H and I are sitting around a circular table in such a way that some of them are facing the centre while some of them are facing outside (opposite to the centre) with equal distance between adjacent persons. Not more than two adjacent persons are facing the same direction.  
 C sits second to the right of A. Two persons sit between C and D. F sits third to the left of D. H sits second to the left of F, who faces opposite to the centre. B sits third to the right of H and is an immediate neighbour of I. G sits fourth to the right of E, who does not sit adjacent to F. Both B and I face the same direction to each other.
 
 
-THANK YOU  
-Champions!!
+THANK YOU Champions!!
 
 
 ## 006. Seating Arrangement Lecture – 6  (Circle Based Mixed Direction)
@@ -193,7 +182,6 @@ Nine persons A, B, C, D, E, F, G, H and I are sitting around a circular table in
 C sits second to the right of A. Two persons sit between C and D. F sits third to the left of D. H sits second to the left of F, who faces opposite to the centre. B sits third to the right of H and is an immediate neighbour of I. G sits fourth to the right of E, who does not sit adjacent to F. Both B and I face same direction to each other.
 
  
-
 Square & Rectangle Based  
 (Corner & Side Based – Fix Direction)
  
@@ -206,6 +194,7 @@ E sits at one of the corners of the table and sits immediate left of G. A sits t
 Directions (71-75):  
 Eight persons are sitting around a square table, such that all of them are facing away from the centre of the table. There are four seats at each corner and four seats along each side of the table.  
 A sits immediate left to C, who sits opposite to B. One person sits between B and G. I sits to the fifth of D (either from left or right). H sits along the edge, just to the left of D. F does not sit immediate to B. C does not sit 2nd to the left of D.
+
 
 Directions (76-80):  
 Eight people P, Q, R, S, T, U, V and W are sitting on a rectangular table, but not necessarily in the same order. In which four of them are sitting at corners while the rest are sitting at the middle of each side. All of them are facing away from the centre of the table.  
@@ -238,10 +227,7 @@ Directions (96-100): Eight persons A, B, C, D, E, F, G and H are sitting on a re
 Three persons are sitting between E and D. E is not sitting opposite of D. A and G are facing opposite direction. B is neither an immedaite neighbor of F nor of A. One person is sitting between G and H. A is sitting opposite of the one, who is sitting third right of G. C is sitting immediate left of E. B is not immediate neighbor of C.
 
  
-
-THANK  
-YOU  
-Champions!!
+THANK YOU Champions!!
 
 
 ## 008. Seating  Arrangement Lecture – 8  (Square & Rectangle Only Side Based)
@@ -267,9 +253,8 @@ Directions (116-120): Eight persons A, B, C, D, E, F, G and H are sitting on a s
 A sits third to the right of B. Two persons sit between B and G, who faces the immediate neighbour of E. E sits on the opposite side of G. F faces the person who sits second to the left of D, but doesn't sit adjacent to G. The number of persons sitting between C and H is one less than between F and D, when counted from the left of both C and D. Neither A nor G sits immediate left of H.
 
 
-THANK  
-YOU  
-Champions!!
+THANK YOU Champions!!
+
 
 ## 009. Seating Arrangement Lecture – 9 (Square/Rectangle/Triangular Based)
 
