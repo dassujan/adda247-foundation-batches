@@ -465,9 +465,9 @@ Nine persons are sitting in a linear row having ten seats facing north with one 
 Directions (321-325):  
 Eight persons are sitting in two parallel rows having five seats in each row (1 seat is left vacant in each row). In row 1, A, B, C and D are seated (but not necessarily in the same order) and all are facing south. In row 2, P, Q, R and S are seated (but not necessarily in the same order) and all are facing north. No person sits opposite to S. D sits third to the right of C. P sits opposite to the one who sits immediate left of D. A does not sit opposite to Q. A sits second to the right of B. Neither R nor S sit at any of the extreme ends of the row.
 
-THANK YOU  Champions!!
+THANK YOU Champions!!
 
-# Seating Arrangement  Lecture – 17  (Vacant Seat & Certain Bounded Body)  
+# 017. Seating Arrangement  Lecture – 17  (Vacant Seat & Certain Bounded Body)  
 
 Vacant Based Arrangement
 
