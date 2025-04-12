@@ -8,41 +8,47 @@ IS IT POSSIBLE TO PREPARE FOR BANK EXAM IN 120 DAYS
 • RRB CLERK,   RRB PO,   IBPS CLERK,  IBPS PO,  SBI CLERK,  SBI PO,  RBI ASSISTANT,  SINGLE BANK EXAMS
 
 **ANALYSIS**  
-• PATTERN  
-• PRE-MAINS  
-• MENTOR  
-• RESOURCES
+- Exam Pattern  
+- Prelims & Mains  
+- Guidance from a Mentor  
+- Quality Resources  
 
 **BASIC REQUIREMENTS**  
-1. STRATEGY  
-2. GOOD RESOURCES  
-3. LIMITLESS PRACTICE  
-4. ANALYSIS OF THE TOPIC
+1. A Clear Strategy  
+2. Good Resources  
+3. Limitless Practice  
+4. Proper Topic-Wise Analysis  
 
 **BUILD YOUR FOUNDATION**  
-• COMPLETION SYLLABUS  
-• CLASSES + PRACTICE  
-• PRELIMS – MOCK & TIMER  
-• FOUNDATION AND EXCELLING
+- Complete the Syllabus  
+- Attend Classes + Do Regular Practice  
+- Prelims: Take Mock Tests with Timers  
+- Focus on Both Foundation and Excellence  
 
 **IBPS PO Prelims Exam Pattern 2025**
 
-_Duration, Marks, Questions, Name of (S.No.):_  
-• 20 minutes: 30, 30, English (1)  
-• 20 minutes: 35, 35, Quants (2)  
-• 20 minutes: 35, 35, Reasoning (3)  
-• 60 minutes: 100, 100, Total
+| S.No. | Section     | Time Allotted | Marks | Questions |
+|-------|-------------|----------------|--------|------------|
+| 1     | English      | 20 minutes     | 30     | 30         |
+| 2     | Quantitative Aptitude | 20 minutes     | 35     | 35         |
+| 3     | Reasoning Ability     | 20 minutes     | 35     | 35         |
+|       | **Total**     | **60 minutes**   | **100**  | **100**      |
 
-_Exam Structure (Time Allotted; Medium of Examination; Max. Marks; No. of Questions; Name of Test):_  
-• 60 minutes – English & Hindi: 60, 45; Reasoning & Computer Aptitude (Section A and Section B)  
-• 40 minutes – English only: 40, 35; English Language (Section A and Section B)  
-• 45 minutes – English & Hindi: 60, 35; Data Analysis and Interpretation (Section A and Section B)  
-• 35 minutes – English & Hindi: 40, 40; General, Economy/Banking Awareness  
-• 180 minutes: 200, 155; Total  
-• 30 minutes – English: 250, 2; English Language (Letter Writing & Essay)  
-• 3 hours 30 minutes: 225, 157; Total
+**IBPS PO Mains Exam Pattern**
 
-*Sentence Example:* Nishant cleared a difficult exam for his father
+
+| S.No. | Section                                 | Time Allotted | Medium           | Max. Marks | Questions |
+|-------|------------------------------------------|----------------|-------------------|-------------|------------|
+| 1     | Reasoning & Computer Aptitude            | 60 minutes     | English & Hindi   | 60          | 45         |
+| 2     | English Language                         | 40 minutes     | English only      | 40          | 35         |
+| 3     | Data Analysis & Interpretation           | 45 minutes     | English & Hindi   | 60          | 35         |
+| 4     | General, Economy & Banking Awareness     | 35 minutes     | English & Hindi   | 40          | 40         |
+|       | **Objective Total**                      | **180 minutes**|                   | **200**     | **155**     |
+| 5     | English Language (Letter Writing & Essay)| 30 minutes     | English only      | 25          | 2          |
+|       | **Grand Total**                          | **210 minutes (3 hrs 30 mins)** | | **225**     | **157**     |
+
+
+*Practice Sentence Example:* Nishant cleared a difficult exam for his father
 
 **GRAMMAR COMPONENTS**
 
