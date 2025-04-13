@@ -275,3 +275,382 @@ It has a subject-verb combination. It may or may not give a meaningful sense.
 4. They keep a fast on Monday.  
 5. He shows false pride.  
 6. He prides himself in his health.
+
+# 007. Word Rearrangement Class - 1
+
+Fill in the blanks
+
+1. Appearances are _______ 
+ a. deceptive  b. deception  c. deceptively  d. deceive
+
+2. Girls generally _______ in their mother.  
+ a. confide  b. confident  c. confidential  d. confidence
+
+3. Children below the age fourteen should be _______ sent to school.  
+ a. compel  
+ c. compulsively  
+ b. compulsory  
+ d. compulsorily
+
+4. The Chairman is ill and we'll have to _______ the meeting for a few days.  
+ a. put on  b. put of  c. put away  d. put off
+
+5. Our rich culture inspires us to take  _______ in our heritage.  
+ a. prided  b. proudly  c. pride  d. proud
+
+6. He said to me, "You are  _______ ”.  
+ a. fooling  b. a fool  c. a foolish  d. fool
+
+7. After initial setback, all _______ programmes were successful due to the initiative of the new dynamic team.  
+ a. consequent  
+ b. subsequently  
+ c. consequently  
+ d. subsequent
+
+8. I don't suppose that Pramod will be elected _______ how hard as he is not completely supported by the committee.  
+ a. although  b. seeing as  c. no matter  d. however
+
+9. Though this blanked is not made of wool, it has a _______ texture.  
+ a. wool  b. woollen  c. woolly  d. woolish
+
+10. Jim suffered a _______ of fortune.  
+ a. reversal  b. reverse  c. revert  d. regress
+
+11. He is _______ connected.  
+ a. respectively  
+ b. respective  
+ c. respectably  
+ d. repectable
+
+12. Lakshmi's sons are the most _______ thing in her life.  
+ a. importancy  
+ b. importance  
+ c. important  
+ d. importantly
+
+13. Being a _______ doctor, he never shirks work.  
+ a. conscious  
+ b. conscience  
+ c. conscientious  
+ d. consensus
+
+14. Solar panels are used to _______ Satellites.  
+ a. powerful  b. power  c. powerless  d. powers
+
+15. Mrs. Hall was prepared to excuse the scientist's strange habits _______ and temper.  
+ a. irate  b. irritation  c. irritable  d. irritate
+
+16. The of the middle school is a woman of _______ .  
+ a. principles, principal  
+ b. principals, principal  
+ c. principal, principles  
+ d. principle, principals
+
+17. My friend has written a _______ account of his journey to the mars.  
+ a. factitious  b. factional  c. fictional  d. factual
+
+18. Security arrangements have been tightened up in all _______ areas.  
+ a. sensible  b. sensual  c. sensitive  d. sensational
+
+19. I sensed the of the _______ argument.  
+ a. beauty  b. beautiful  c. beautifully  d. beautification
+
+20. Repetition bred a sense of _______ with the characters.  
+ a. familiar  b. familiarity  c. familiarly  d. familiarise
+
+21. Rituals play into the _______ understandings of a society.  
+ a. tactfully  b. tacit  c. taciturn  d. tacitly
+
+22. The _______ of lectures could be enhanced by introducing the lecture with a brief review of the work.  
+ a. efficiency  b. efficient  c. efficiently  d. effectivness
+
+# 008. Word Rearrangement Class - 2
+
+Direction (1-10): In the following question, a sentence is given with four words marked as (A), (B), (C), and (D). These words may or may not be placed in the correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer.
+
+Q1. Shocked(A) by her husband’s betrayal(B), the heartbroken woman couldn’t believe that the man she affair(C) had been having a year-long trusted(D).  
+ A. D-B  
+ B. B-A  
+ C. B-C  
+ D. C-D  
+ E. No change required
+
+Q2. Harish tried(A) to eligible(B) for government assistance(C) but wasn’t qualify(D) because he made too much money.  
+ A. B-C  
+ B. C-D  
+ C. A-C  
+ D. D-B  
+ E. No change required
+
+Q3. Unable to hike(A) the premium afford(B), the struggling(C) couple had to cancel(D) their insurance and sell their vehicle.  
+ A. D-A  
+ B. A-B  
+ C. C-B  
+ D. B-D  
+ E. No change required
+
+Q4. One student took a relaxed(A) approach to finish(B) the test while the other was more feverish(C) than frenzied(D).  
+ A. A-D  
+ B. B-C  
+ C. C-A  
+ D. D-B  
+ E. No change required
+
+Q5. For a month now, an unknown(A) superhero has danger(B) swooped through the city streets saving(C) people from mysteriously(D).  
+ A. A-C  
+ B. B-D  
+ C. C-D  
+ D. D-A  
+ E. No change required
+
+Q6. The jury motive (A) the attorney’s conjecture(B) about the defendant’s rejected(C) because of a lack of evidence(D).  
+ A. A-B  
+ B. B-D  
+ C. A-C  
+ D. B-C  
+ E. No change required
+
+# 009. Word Rearrangement Class - 3
+
+Q4. One student took a relaxed(A) approach to finish(B) the test while the other was more feverish(C) than frenzied(D).  
+ A. A-D  
+ B. B-C  
+ C. C-A  
+ D. D-B  
+ E. No change required
+
+Q5. For a month now, an unknown(A) superhero has danger(B) swooped through the city streets saving(C) people from mysteriously(D).  
+ A. A-C  
+ B. B-D  
+ C. C-D  
+ D. D-A  
+ E. No change required
+
+Q6. The jury motive (A) the attorney’s conjecture(B) about the defendant’s rejected(C) because of a lack of evidence(D).  
+ A. A-B  
+ B. B-D  
+ C. A-C  
+ D. B-C  
+ E. No change required
+
+Q7. Advocating (A) rural communities by empowering (B) for disability rights and engaging the inclusive (C) sector fosters private (D) opportunities for persons with disabilities.  
+ A. B-D  
+ B. C-D  
+ C. B-A, C-D  
+ D. A-D, B-C  
+ E. No interchange required
+
+Q8. Geological studies seismic (A) the potential (B) nature of construction in the Himalayas, emphasizing the region's highlight (C) sensitivity and perilous (D) danger zones.  
+ A. A-C, D-B  
+ B. B-C  
+ C. A-B, C-D  
+ D. A-C  
+ E. No interchange required
+
+Q9. The resistance (A) trauma from violence experienced (B) in childhood often transforms into societal rebellion (C) or even violent lingering (D) against norms in adulthood.  
+ A. A-D, C-B  
+ B. A-C, D-B  
+ C. C-B  
+ D. A-D  
+ E. No interchange required
+
+Q10. The demand for labour is intricately (A) tied to the aggregate (B) demand for goods and services, determining (C) employment regardless of workers' willingness (D) to work longer hours.  
+ A. B-D  
+ B. D-A, C-B  
+ C. A-C, D-B  
+ D. A-C  
+ E. No interchange required
+
+Q11. A wildlife (A) of an eagle was carved (B) out of wood for the sculpture (C) event.  
+ (a) BCA  
+ (b) CBA  
+ (c) ACB  
+ (d) BAC  
+ (e) No rearrangement needed
+
+Q12. Blood was analyzed (A) through a/an diagnostic (B) machine to figure out whether the patient was suffering (C) from cancer or the flu.  
+ (a) BCA  
+ (b) CBA  
+ (c) ACB  
+ (d) BAC  
+ (e) No rearrangement needed
+
+Q13. Without any solitude (A) a/an crazy (B) is bound to go a bit introvert (C)  
+ (a) BCA  
+ (b) CBA  
+ (c) ACB  
+ (d) BAC  
+ (e) No rearrangement needed
+
+Q14. The allowed(A) material permeable (B) a large amount of water to seep (C) through.  
+ (a) BCA  
+ (b) CBA  
+ (c) ACB  
+ (d) BAC  
+ (e) No rearrangement needed
+
+# 009. Word Rearrangement Class - 4
+
+Direction (1-10): In the following question, a sentence is given with four words marked as (A), (B), (C), and (D). These words may or may not be placed in the correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer.
+
+Q1. Shocked (A) by her husband’s betrayal (B), the heartbroken woman couldn’t believe that the man she affair (C) had been having a year-long trusted (D).
+
+  A. D-B  
+  B. B-A  
+  C. B-C  
+  D. C-D  
+  E. No change required
+
+Q2. Harish tried (A) to eligible (B) for government assistance (C) but wasn’t qualify (D) because he made too much money.
+
+  A. B-C  
+  B. C-D  
+  C. A-C  
+  D. D-B  
+  E. No change required
+
+Q3. Unable to hike (A) the premium afford (B), the struggling (C) couple had to cancel (D) their insurance and sell their vehicle.
+
+  A. D-A  
+  B. A-B  
+  C. C-B  
+  D. B-D  
+  E. No change required
+
+Q4. One student took a relaxed (A) approach to finish (B) the test while the other was more feverish (C) than frenzied (D).
+
+  A. A-D  
+  B. B-C  
+  C. C-A  
+  D. D-B  
+  E. No change required
+
+Q5. For a month now, an unknown (A) superhero has danger (B) swooped through the city streets saving (C) people from mysteriously (D).
+
+  A. A-C  
+  B. B-D  
+  C. C-D  
+  D. D-A  
+  E. No change required
+
+Q6. The jury motive (A) the attorney’s conjecture (B) about the defendant’s rejected (C) because of a lack of evidence (D).
+
+  A. A-B  
+  B. B-D  
+  C. A-C  
+  D. B-C  
+  E. No change required
+
+Q7. Advocating (A) rural communities by empowering (B) for disability rights and engaging the inclusive (C) sector fosters private (D) opportunities for persons with disabilities.
+
+  A. B-D  
+  B. C-D  
+  C. B-A, C-D  
+  D. A-D, B-C  
+  E. No interchange required
+
+Q8. Geological studies seismic (A) the potential (B) nature of construction in the Himalayas, emphasizing the region's highlight (C) sensitivity and perilous (D) danger zones.
+
+  A. A-C, D-B  
+  B. B-C  
+  C. A-B, C-D  
+  D. A-C  
+  E. No interchange required
+
+Q9. The resistance (A) trauma from violence experienced (B) in childhood often transforms into societal rebellion (C) or even violent lingering (D) against norms in adulthood.
+
+  A. A-D, C-B  
+  B. A-C, D-B  
+  C. C-B  
+  D. A-D  
+  E. No interchange required
+
+Q10. The demand for labour is intricately (A) tied to the aggregate (B) demand for goods and services, determining (C) employment regardless of workers' willingness (D) to work longer hours.
+
+  A. B-D  
+  B. D-A, C-B  
+  C. A-C, D-B  
+  D. A-C  
+  E. No interchange required
+
+Q11. A wildlife (A) of an eagle was carved (B) out of wood for the sculpture (C) event.
+
+  (a) BCA  
+  (b) CBA  
+  (c) ACB  
+  (d) BAC  
+  (e) No rearrangement needed
+
+Q12. Blood was analyzed (A) through a/an diagnostic (B) machine to figure out whether the patient was suffering (C) from cancer or the flu.
+
+  (a) BCA  
+  (b) CBA  
+  (c) ACB  
+  (d) BAC  
+  (e) No rearrangement needed
+
+Q13. Without any solitude (A) a/an crazy (B) is bound to go a bit introvert (C)
+
+  (a) BCA  
+  (b) CBA  
+  (c) ACB  
+  (d) BAC  
+  (e) No rearrangement needed
+
+Q14. The allowed (A) material permeable (B) a large amount of water to seep (C) through.
+
+  (a) BCA  
+  (b) CBA  
+  (c) ACB  
+  (d) BAC  
+  (e) No rearrangement needed
+
+Q15. The astronomer observation (A) a new star during a/an discovered (B) recent (C)
+
+  (a) BCA  
+  (b) CBA  
+  (c) ACB  
+  (d) BAC  
+  (e) No rearrangement needed
+
+Directions (16-20): In each of the questions given below four words are given in bold. These four words may or may not be in their correct position. The sentence is then followed by options with the correct combination of words that should replace each other in order to make the sentence grammatically and contextually correct. Find the correct combination of the words that replace each other. If the sentence is correct as it then select option (e) as your choice.
+
+Q16. With power (A) growth, the demand (B) for economic (C) in India is only going to increase (D) further.
+
+  (a) A-B  
+  (b) A-C  
+  (c) B-D  
+  (d) C-D  
+  (e) The sentence is correct
+
+Q17. In pursuit (A) of novel ways to draw caught (B) to the Big Prize, the Academy (C) seems to have been attention (D) on the wrong foot again.
+
+  (a) A-B  
+  (b) A-C  
+  (c) B-D  
+  (d) C-B  
+  (e) The sentence is correct
+
+Q18. Today, thermal power accounts (A) capacity generation (B) for about two-thirds of the installed (C) generation capacity (D) in the country.
+
+  (a) A-B  
+  (b) A-C  
+  (c) B-D  
+  (d) C-D  
+  (e) The sentence is correct
+
+Q19. The IMF followed (A) the World Bank in reducing (B) its forecast for India's economic (C) growth in the current financial (D) year.
+
+  (a) A-B  
+  (b) A-C  
+  (c) B-D  
+  (d) C-D  
+  (e) The sentence is correct
+
+Q20. The Air Quality Index of Delhi worsened (A) slightly and expected (B) in the "poor" category and is stayed (C) to further deteriorate (D) from the last week of the month.
+
+  (a) A-B  
+  (b) A-C  
+  (c) B-C  
+  (d) C-D  
+  (e) The sentence is correct
