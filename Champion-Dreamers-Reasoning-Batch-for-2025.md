@@ -10,6 +10,7 @@ B. 2
 C. 3
 D. 4
 E. 0
+
 EVENT 8912   STORY 4817   POWER 1925   YOUNG 3384   STATE 7498
 
 Q142. If 1st and 3rd & 2nd and 4th digits within a 4-digit number are interchanged, then 1st and 3rd & 2nd and 5th letters within a 5-letter word are interchanged. Then how many words start with a vowel and how many numbers thus formed will be an even number respectively?
@@ -18,6 +19,7 @@ B. 2, 4
 C. 3, 5
 D. 4, 5
 E. None of these
+
 EVENT 8912   STORY 4817   POWER 1925   YOUNG 3384   STATE 7498
 
 Q143. If in the given words, each letter is replaced by the previous letter and then the resultant letters are replaced by its place value according to the alphabetical series (A-1, B-2, C-3…Y-25, Z-26), then which word denotes the maximum sum among the following (consider the previous letter of A as Z)?
@@ -26,6 +28,7 @@ B. STATE
 C. YOUNG
 D. POWER
 E. None of these
+
 EVENT 8912   STORY 4817   POWER 1925   YOUNG 3384   STATE 7498
 
 Q144. If the sum of the last three digits of each number is multiplied by 9 then, how many resultant numbers thus formed will be an odd number?
@@ -34,6 +37,7 @@ B. 3
 C. 2
 D. 5
 E. 0
+
 EVENT 8912   STORY 4817   POWER 1925   YOUNG 3384   STATE 7498
 
 Q145. If it is possible to make a ten-letter meaningful word using the letters which are at both ends of each word, then how many words can be formed?
@@ -42,6 +46,7 @@ B. 3
 C. 2
 D. 5
 E. 0
+
 EVENT 8912   STORY 4817   POWER 1925   YOUNG 3384   STATE 7498
 
 Resultant Based Series
