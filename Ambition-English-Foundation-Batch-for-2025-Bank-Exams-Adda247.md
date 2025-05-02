@@ -654,3 +654,576 @@ Q20. The Air Quality Index of Delhi worsened (A) slightly and expected (B) in th
   (c) B-C  
   (d) C-D  
   (e) The sentence is correct
+
+# 010. Word Rearrangement Advance Class & IMP Vocab
+
+Directions (1–10): In the following question, a sentence is given with four words marked as (A), (B), (C) and (D). These words may or may not be placed in their correct order. Four options with different arrangements of these words have been provided. Mark the option with the correct arrangement as the answer. If no rearrangement is required, mark option (5) as your answer.
+
+1. We discovered a small penknife (A) with a single notches (B) broken off about the middle and very rusty (C), besides having two or three blade (D) on its edge  
+   a) A-B  
+   b) B-D  
+   c) C-D  
+   d) A-D  
+   e) No rearrangement  
+
+2. Our encounter (A) with the shark was the first great befallen (B) that had danger (C) us since landing (D) on this island  
+   a) B-C  
+   b) B-D  
+   c) A-D  
+   d) A-C  
+   e) No rearrangement  
+
+3. We now property (A) ourselves upon a rock (B), and began to examine (C) into our personal seated (D)  
+   a) A-C  
+   b) B-C  
+   c) B-D  
+   d) A-D  
+   e) No rearrangement  
+
+4. It was a bright, beautiful, warm day (A) when our ship spread her south (B) to the breeze, and sailed (C) for the regions of the canvas (D).  
+   a) B-C  
+   b) C-D  
+   c) A-C  
+   d) B-D  
+   e) No rearrangement  
+
+5. Not Woodpecker (A) from the same lake, a far (B) had a nest (C) in the top of a tree; and in the lake lived (D) a Turtle  
+   a) A-D  
+   b) B-C  
+   c) B-D  
+   d) A-B  
+   e) No rearrangement  
+
+6. For some seaports (A) I was happy in visiting the years (B), and in coasting (C) along the shores (D) of my native land  
+   a) B-C  
+   b) B-D  
+   c) A-B  
+   d) C-D  
+   e) No rearrangement  
+
+7. As the queen put her branches (A) of pearls away in a box (B), she was watched (C) by a Girl Monkey who sat in the string (D) of a tree near- by.  
+   a) A-B  
+   b) A-D  
+   c) B-C  
+   d) B-D  
+   e) No rearrangement  
+
+8. The net (A) saw the splashing (B) water and thought the Fishes had broken (C) through the fisherman (D) and that one had gone up the river.  
+   a) A-B  
+   b) B-C  
+   c) A-D  
+   d) A-C  
+   e) No rearrangement  
+
+9. A man quails (A) near the forest (B) and earned his living by catching lived (C) and selling them (D)  
+   a) A-B  
+   b) A-C  
+   c) C-D  
+   d) B-C  
+   e) No rearrangement  
+
+10. The ought (A) set the price which valuer (B) to be paid (C) for horses and elephants and the other animals (D)  
+    a) B-C  
+    b) A-C  
+    c) B-D  
+    d) A-B  
+    e) No rearrangement  
+
+Directions (11–13): In the sentence, certain words are in bold and numbered from A to E, which possibly need be rearranged. Choose their correct arrangement to make the sentence grammatically correct and meaningful.
+
+11. Many college students, particularly those who (A) integrate a decline in status from their high-school days, fall (B) withdrawal to the first-year adjustment reaction—feelings of depression, anxiety, and (C) victim that typically pass quickly as the students (D) experience themselves into their new (E) surroundings.  
+    a) B A D C E  
+    b) D C B A E  
+    c) B D C E A  
+    d) E A C B D  
+    e) A B D C E  
+
+12. The main aim of the (A) unsuccessful 1953 raid on the Moncada Barracks, in Santiago de Cuba, by 160 rebels led by Castro had been to (B) secure weapons for an (C) dictatorship against the (D) insurrection of Fulgencio Batista, who had come to power in a (E) coup the previous year.  
+    a) B A E D C  
+    b) A B D C E  
+    c) D C B A E  
+    d) D A C B E  
+    e) D B C A E  
+
+13. We know that the finest (A) implicated from dirty air can reach the brain via both the bloodstream and the nose, and that air pollution has been (B) particulates in increased [brain] (C) inflammation, damage to nerve cells and to changes in stress hormone (D) production, which have been (E) linked to poor mental health,” Braithwaite said.  
+    a) D B C E A  
+    b) A C B E D  
+    c) A E C D B  
+    d) C B A D E  
+    e) B A C D E  
+
+Directions (14–16): In each question, one sentence is given. In each sentence, certain words are in bold and numbered from A to D. Below the sentences are given five options with possible pairs of interchange of those bold words. Choose the pair(s) of words that need to be interchanged to make the sentence grammatically correct and meaningful.
+
+14. The Silk Road not only (A) credited as a major trade route (B) from India and China but is also (C) served for facilitating the spread of Buddhism (D) between India to East Asia.  
+    A. A-B  
+    B. A-D  
+    C. B-C  
+    D. A-C, B-D  
+    E. A-D, B-C  
+
+15. Women (A) access the bulk of food in Africa, and (B) such they are largely locked out of land ownership, (C) produce to credit, and productive farm inputs (D) yet as fertilizers, pesticides, and farming tools.  
+    a) A-B  
+    b) B-C  
+    c) A-D  
+    d) A-B, C-D  
+    e) B-D, A-C  
+
+Word Clusters
+
+Lethal (adjective)  
+of an instrument of certain death  
+
+1. Lethal  
+2. Fatal  
+3. Deadly  
+
+Forte (noun)  
+an asset of special worth or utility  
+(adverb) used as a direction in music; to be played relatively loudly  
+
+4. Forte  
+5. Speciality  
+6. Strength  
+
+Halting (adjective)  
+fragmentary or halting from emotional strain  
+disabled in the feet or legs  
+
+7. Halting  
+8. Broken  
+9. Crippled  
+
+A MALL GAME
+
+Amalgamation  
+(verb) bring or combine together or with something else  
+(adjective) joined together into a whole  
+
+
+# 013. Sentence Rearrangement Basic
+
+I will win
+
+**Q1.**
+1: Religion has been used
+P: both as a weapon of isolation
+Q: to dull awareness
+R: about real problems
+S: and as distraction
+6: like education, health and employment.
+
+(a) PQRS
+(b) PSQR
+(c) QPSR
+(d) RPQS
+(e) None of these
+
+**Q2.**
+S₁: For some people patriotism
+P: today man belongs to the whole world
+Q: it should be condemned because
+R: type of patriotism is an evil and
+S: means hatred for other countries, but this
+S₆: as much as to any one country.
+
+(a) SRQP
+(b) PQSR
+(c) RSPQ
+(d) QPSR
+(e) None of these
+
+**Q3.**
+S₁: Science does not merely add new truths
+P: destroy some old truths and
+Q: discovers new truths that
+R: thereby upsets the way of
+S: to old ones, it also
+S₆: men’s thinking and their lives.
+
+(a) QSRP
+(b) RPSQ
+(c) PSRQ
+(d) SQPR
+(e) None of these
+
+**Direction (7–13):**
+The following sentences have been broken into five parts which are not in their proper order. You must read them carefully and choose the sequence that, when rearranged, would form meaningful sentences.
+
+**Q7.**
+teddy bear and is (A) / a girl is holding a (B) / where the teddy (C) / looking at the shelf (D) / bears have been kept (E).
+
+a) BADCE
+b) ABEDC
+c) BEDAC
+d) ACBED
+e) ABCDE
+
+**Q8.**
+can improve your life (A) / inculcate the habit (B) / the sooner you (C) / of saving and investing, (D) / the younger you (E).
+
+a) ABEDC
+b) EBDCA
+c) DBEAC
+d) ABEDC
+e) No rearrangement needed
+
+**Q9.**
+future only through better investment (A) / amount can be added for the (B) / of investing because a good (C) / then you should make a habit (D) / if you want to secure your future, (E).
+
+a) EDCBA
+b) AEBDC
+c) EDCAB
+d) EDBCA
+e) ABEDC
+
+
+**Exploring words - Cacophony & Fervor**
+
+Cacophony is a noun used to describe a harsh, discordant mix of sounds, like the chaotic noise of traffic outside. Synonyms include "din" and "racket," while antonyms are words like "harmony" or "melody."
+
+Fervor, also a noun, refers to intense passion or enthusiasm. It’s related to zeal or ardor, with its opposite being apathy or indifference. An example sentence could be: "The crowd’s fervor was clear as they cheered on their team."
+
+**Exploring Words - Cease, Scrutiny, Conceal**
+
+"Cease" is a verb meaning to bring something to an end, like the heavy rain that ceased after hours. Synonyms include "stop" and "discontinue," with antonyms like "begin" and "commence."
+
+"Scrutiny" is a noun for a close inspection or examination, often involving detailed analysis. Its opposites are words like "neglect" or "inattention."
+
+"Conceal" is a verb meaning to hide something, as in trying to conceal disappointment when receiving bad news. Its antonyms range from "reveal" to "uncover."
+
+## 014. Sentence rearrangement with odd
+
+I will win *(yaad rkhna forever)*
+
+**Directions (1–5):**
+Each sentence below is divided into five parts labeled A, B, C, D, and E. Rearrange these parts to form a coherent and contextually correct sentence. One part is an odd one out and does not fit in the sentence. Choose the option that represents the correct sequence excluding the odd part.&#x20;
+
+**Q1.**
+(A) although the sky looked threatening
+(B) the match continued without any interruption
+(C) the players discussed the weather over lunch
+(D) with dark clouds hovering above
+(E) as if it would rain any moment
+
+(a) A D E B (b) A C D B (c) D E A C (d) A D B C (e) C D B E
+
+**Q2.**
+(A) the government aims to bridge the urban-rural education divide
+(B) by implementing policies that promote digital learning platforms,
+(C) and provide necessary infrastructure to remote areas
+(D) in an effort to enhance accessibility and quality of education
+(E) emphasizing the importance of traditional classroom methods
+
+(a) B A C D (b) A B E C (c) E A D C (d) D A B C (e) A D E C
+
+**Q3.**
+(A) the government aims to achieve net-zero emissions by 2070
+(B) by implementing policies that promote renewable energy adoption
+(C) and enhance energy efficiency across various sectors
+(D) while ensuring economic growth and development
+(E) emphasizing the importance of international trade agreements
+
+(a) B C A D (b) A E D C (c) B A C D (d) E A B C (e) A D C B
+
+**Q4.**
+(A) The National Education Policy aims to transform the educational landscape
+(B) by emphasizing multidisciplinary learning and critical thinking
+(C) while also promoting the integration of technology in classrooms
+(D) highlighting the importance of physical education and sports
+(E) to equip students with skills relevant to the 21st century
+
+(a) A B C E (b) A C B D (c) A B D E (d) B A C E (e) A D C B
+
+**Q5.**
+(A) to curb industrial emissions
+(B) the government has introduced stringent regulations
+(C) and promote the use of renewable energy sources
+(D) aiming to achieve a significant reduction in air pollution
+(E) highlighting the importance of international trade agreements
+
+(a) B A C D (b) A B E D (c) B C A E (d) D A B C (e) A E C B
+
+### Vocabulary
+
+**1. Cacophony**
+Part of Speech: Noun
+Meaning: A harsh, discordant mixture of sounds
+Synonyms: din; racket; clamor; uproar
+Antonyms: harmony; euphony; melody; concord
+Example Sentence: The cacophony of traffic outside made it nearly impossible to concentrate.
+
+**2. Fervour**
+Part of Speech: Noun
+Meaning: Intense and passionate feeling; enthusiasm
+Synonyms: passion; zeal; ardour; intensity
+Antonyms: apathy; indifference; lethargy; dispassion
+Example Sentence: The crowd’s fervour was evident as they cheered on their team with unmatched enthusiasm.
+
+**3. Cease**
+Part of Speech: Verb
+Meaning: To bring or come to an end; to stop.
+Synonyms: stop; end; halt; discontinue
+Antonyms: begin; start; commence; initiate
+Example Sentence: The heavy rain finally ceased after three hours, allowing the children to go out and play.
+
+**4. Scrutiny**
+Part of Speech: Noun
+Meaning: Critical observation or examination; a close inspection.
+Synonyms: examination; inspection; analysis; investigation
+Antonyms: overlook; disregard; neglect; inattention
+Example Sentence: The proposal was under close scrutiny by the board before any decision was made.
+
+**5. Conceal**
+Part of Speech: Verb
+Meaning: To hide or keep something secret; to cover up.
+Synonyms: hide; cover; mask; disguise
+Antonyms: reveal; disclose; expose; uncover
+Example Sentence: She tried to conceal her disappointment when she received the news.
+
+## 015. interaction with toppers and vocab
+
+**MISSPELT**
+
+1. Which of the following is the correct spelling for the word meaning “pushing or shoving in a crowd”?
+   a) Jostlin
+   b) Jostling
+   c) Jostlling
+   d) Joostling
+   e) None of these
+
+2. Which of the following is the correct spelling for the word describing a place full of activity and energy?
+   a) Busstling
+   b) Bustlling
+   c) Bustling
+   d) Bustlin
+   e) None of these
+
+3. Which of the following is the correct spelling for the word referring to a sudden panicked rush (often of animals)?
+   a) Stampedee
+   b) Stampede
+   c) Stampeed
+   d) Stamepde
+   e) None of these
+
+4. Which of the following is the correct spelling for the small fish commonly packed in tins?
+   a) Sardines
+   b) Sardins
+   c) Sardiens
+   d) Sardenes
+   e) None of these
+
+5. Which of the following is the correct spelling for the word meaning “equivalent in seriousness or value”?
+   a) Ttantamount
+   b) Tantamont
+   c) Tantamount
+   d) Tantamunt
+   e) None of these
+
+6. Which of the following is the correct spelling for the word meaning “to transport by boat” or referring to a boat used for transport?
+   a) Fery
+   b) Ferrey
+   c) Ferrry
+   d) Ferry
+   e) None of these
+
+7. Which of the following is the correct spelling for the word meaning “widely and unfavorably known”?
+   a) Notorios
+   b) Notoreous
+   c) Notritorious
+   d) Notorious
+   e) None of these
+
+**ONE WORD SUBSTITUTION**
+
+1. Extremely intense or overpowering
+   a) Weak
+   b) Overwhelming
+   c) Insignificant
+   d) Mild
+   e) Light
+
+2. Strange, dreamlike, or unreal
+   a) Common
+   b) Ordinary
+   c) Surreal
+   d) Natural
+   e) Predictable
+
+3. To stir or agitate vigorously
+   a) Still
+   b) Freeze
+   c) Rest
+   d) Churn
+   e) Calm
+
+4. The process of coming apart or being solved
+   a) Unravelling
+   b) Fixing
+   c) Strengthening
+   d) Securing
+   e) Binding
+
+5. A sudden fall or failure
+   a) Success
+   b) Growth
+   c) Collapse
+   d) Stability
+   e) Rise
+
+6. To find one’s way or manage a situation
+   a) Drift
+   b) Wander
+   c) Navigate
+   d) Ignore
+   e) Mislead
+
+7. Causing death or disaster
+   a) Fatal
+   b) Safe
+   c) Harmless
+   d) Healing
+   e) Beneficial
+
+8. To consider or calculate something
+   a) Ignore
+   b) Reckon
+   c) Dismiss
+   d) Underestimate
+   e) Forget
+
+9. Property or traits passed down from ancestors
+   a) Loss
+   b) Inheritance
+   c) Debt
+   d) Rejection
+   e) Dispossession
+
+10. To take great pleasure or delight in something
+    a) Mourn
+    b) Regret
+    c) Suffer
+    d) Revel
+    e) Ignore
+
+**INDEX OF CONTENTS**
+
+1. Synonyms
+2. Antonyms
+3. Phrasal verbs
+4. Idioms
+5. Reading
+6. Reading comprehension
+
+**VOCABULARY**
+
+1. **Cacophony**
+   Part of Speech: Noun
+   Meaning: A harsh, discordant mixture of sounds
+   • Hindi Translation: ककश व न
+   • Synonyms: din; racket; clamor; uproar
+   • Antonyms: harmony; euphony; melody; concord
+   • Example Sentence: The cacophony of traffic outside made it nearly impossible to concentrate.
+
+2. **Fervour**
+   Part of Speech: Noun
+   Meaning: Intense and passionate feeling; enthusiasm
+   • Hindi Translation: उ साह, जुनून
+   • Synonyms: passion; zeal; ardour; intensity
+   • Antonyms: apathy; indifference; lethargy; dispassion
+   • Example Sentence: The crowd’s fervour was evident as they cheered on their team with unmatched enthusiasm.
+
+3. **Cease**
+   Part of Speech: Verb
+   Meaning: To bring or come to an end; to stop.
+   • Hindi Translation: रोकना, समाप्त करना
+   • Synonyms: stop; end; halt; discontinue
+   • Antonyms: begin; start; commence; initiate
+   • Example Sentence: The heavy rain finally ceased after three hours, allowing the children to go out and play.
+
+4. **Scrutiny**
+   Part of Speech: Noun
+   Meaning: Critical observation or examination; a close inspection.
+   • Hindi Translation: जांच, निर्णय
+   • Synonyms: examination; inspection; analysis; investigation
+   • Antonyms: overlook; disregard; neglect; inattention
+   • Example Sentence: The proposal was under close scrutiny by the board before any decision was made.
+
+5. **Conceal**
+   Part of Speech: Verb
+   Meaning: To hide or keep something secret; to cover up.
+   • Hindi Translation: छुपाना, गुप्त रखना
+   • Synonyms: hide; cover; mask; disguise
+   • Antonyms: reveal; disclose; expose; uncover
+   • Example Sentence: She tried to conceal her disappointment when she received the news.
+
+6. **Avert**
+   Part of Speech: Verb
+   Meaning: To prevent or ward off (an undesirable occurrence).
+   • Hindi Translation: रोकना, टालना
+   • Synonyms: prevent; avoid; ward off; stop
+   • Antonyms: allow; permit; provoke; incite
+   • Example Sentence: Quick actions by emergency services helped avert a potential disaster during the storm.
+
+7. **Glare**
+   Part of Speech: Verb/Noun
+   Meaning: To stare angrily or fiercely; to shine with a strong, harsh light.
+   • Hindi Translation: तीखी नजर डालना (verb) / तेज चमक (noun)
+   • Synonyms: scowl; glower; frown; stare
+   • Antonyms: smile; beam; glance; kindly
+   • Example Sentence: The teacher’s glare silenced the disruptive classroom instantly.
+
+8. **Surge**
+   Part of Speech: Noun/Verb
+   Meaning: A sudden, powerful forward or upward movement; a rapid increase.
+   • Hindi Translation: उछाल, बढ़ोतरी
+   • Synonyms: rush; wave; burst; spike
+   • Antonyms: decline; decrease; drop; fall
+   • Example Sentence: A surge in energy consumption was observed during the heatwave.
+
+9. **Proclaim**
+   Part of Speech: Verb
+   Meaning: To announce officially or publicly; to declare solemnly.
+   • Hindi Translation: घोषत करना, घोषत रूप से कहना
+   • Synonyms: announce; declare; state; assert
+   • Antonyms: conceal; hide; suppress; withhold
+   • Example Sentence: The mayor proclaimed a new initiative to improve public transportation across the city.
+
+10. **Harbinger**
+    Part of Speech: Noun
+    Meaning: A person or thing that announces or signals the approach of another; a forerunner.
+    • Hindi Translation: पूर्वसूचक, आदितू
+    • Synonyms: precursor; forerunner; herald; omen
+    • Antonyms: follower; result; outcome; consequence
+    • Example Sentence: The first snowfall is often seen as a harbinger of the coming winter.
+
+**IDIOMS**
+
+1. **A bitter pill to swallow**
+   Meaning: Something unpleasant or difficult to accept.
+   Example: “It is a bitter pill to swallow, but the outdated safety measures must be acknowledged.”
+
+2. **Chinks in armour**
+   Meaning: Weak or vulnerable points in an otherwise strong system.
+   Example: “The stampede exposed the chinks in armour of the Indian Railways.”
+
+3. **Harbinger of disaster**
+   Meaning: A sign or warning that something very bad is about to happen.
+   Example: “The outdated approach to passenger safety is at worst a harbinger of disaster.”
+
+4. **Packed like sardines**
+   Meaning: Extremely crowded, with people or items tightly squeezed together.
+   Example: “A simple calculation shows that each coach was packed like sardines.”
+
+**PHRASAL VERBS**
+
+1. **Laid bare**
+   Meaning: To reveal or expose something completely.
+   Example: “The tragedy has laid bare systemic failures not due to resource constraints but due to indifference.”
+
+2. **Caught off-guard**
+   Meaning: To be surprised or unprepared for something.
+   Example: “The Indian Railway’s assertion that it was caught off-guard by the surge in ticket sales is a weak defence.”
+
+3. **Shifted onto**
+   Meaning: To transfer blame or responsibility to someone or something.
+   Example: “The blame has been shifted onto travellers for the chaos during the stampede.”
