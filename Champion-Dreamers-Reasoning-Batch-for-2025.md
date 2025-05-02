@@ -1410,12 +1410,14 @@ THANK YOU Champions!!
 
 Machine coding
 
-Direction (91-95): Numbers in the form of a 4×4 matrix were given:
-First row was represented as # having 4 numbers in multiples of 3 starting from 24.
-Second row was represented as % having first 4 prime numbers starting from 19.
-Third row was represented as @ having 4 numbers in multiples of 7 starting from 28.
-Fourth row was represented as \$ having 4 numbers in multiples of 8 starting from 32.
-The columns were represented as A, B, C and D.
+**Direction (91–95):**
+Numbers in the form of a 4×4 matrix were given:
+
+* First row was represented as **#** having 4 numbers in multiples of 3 starting from 24.
+* Second row was represented as **%** having first 4 prime numbers starting from 19.
+* Third row was represented as **@** having 4 numbers in multiples of 7 starting from 28.
+* Fourth row was represented as **\$** having 4 numbers in multiples of 8 starting from 32.
+  The columns were represented as A, B, C and D.
 
 There are four bombs R, S, T and U. Each bomb will burst after receiving a signal of certain frequency based on certain conditions as follows:
 I. If there are at least 2 numbers which are multiples of 5, then frequency of the string will be the addition of all the numbers except those multiples of 5.
@@ -1423,59 +1425,72 @@ II. If there are consecutive numbers in the string, then frequency of the string
 III. If there are two numbers multiple of 6, then frequency will be the addition of all the even numbers.
 IV. If there are at least two prime numbers in the string, then frequency of the string will be the multiplication of the lowest and the largest number.
 
-Note:
+**Note:**
 
 1. If none of the given conditions follow, then frequency will be the multiplication of the 3rd lowest and the 3rd largest number.
-2. If only string either A or B is given then only one string is taken as input.
-3. If the final frequency is less than 130 then only R will burst, between 130 and 450 then S will burst, between 450 and 750 then T will burst, and more than 750 then U will burst.  For example:
+2. If only string A or B is given then only one string is taken as input.
+3. If the final frequency is less than 130 then only **R** will burst, between 130 and 450 then **S**, between 450 and 750 then **T**, and more than 750 then **U**.
 
-> If K = %B @A #C %A and L = %D @C #A @B
-> %B denotes value in first row and column B, which is 23.
-> Therefore K = 23 28 30 19, satisfying condition IV → frequency = 30 × 19 = 570.
-> L = 31 42 24 35, satisfying condition III → frequency = 42 + 24 = 66.
-> Final frequency = 570 + 66 = 636.
+*(For example: If K = %B @A #C %A, L = %D @C #A @B)*
+%B denotes value in first row and column B, which will be equal to 23. Therefore:
 
-Consider the signals K = #B %C #A %D and L = %A #C #D \$B for all the questions.
+```
+K = 23 28 30 19  
+This satisfies condition IV.  
+Frequency of K = 30 × 19 = 570  
 
-Q91. If only frequency of K is taken as input, then \_\_\_\_ bomb will burst.
- A. T  B. R  C. Can’t be determined  D. S  E. U
+L = 31 42 24 35  
+This satisfies condition III.  
+Frequency of L = 42 + 24 = 66  
 
-Q92. What is the final frequency of both the signals?
- A. Between 450 to 750  B. More than 750  C. Between 130 and 450  D. None of these  E. Less than 130
+Final frequency = 570 + 66 = 636  
+```
 
-Q93. If only frequency of L is taken as input, then what value should be added to the frequency of L so that bomb S will burst?
- A. 80  B. Can’t be determined  C. 400  D. 700  E. 450
+Consider the signal K = #B %C #A %D and L = %A #C #D \$B for all the questions.
 
-Q94. If only frequency of K is taken as input, then what value should be subtracted from the frequency of K so that bomb S will burst?
- A. 618  B. 305  C. 200  D. 150  E. Can’t be determined
+**Q91.** If only frequency of K is taken as input, then \_\_\_\_ bomb will burst.
+A. T B. R C. Can’t be determined D. S E. U
 
-Q95. If frequency of L is taken as input, then \_\_\_\_\_ bomb will burst.
- A. S  B. Can’t be determined  C. R  D. T  E. U
+**Q92.** What is the final frequency of both the signals?
+A. Between 450 to 750 B. More than 750 C. Between 130 and 450 D. None of these E. Less than 130
 
-Direction (96-100): In a courier delivering unit, items are packed and sent to their respective addresses. Machines check the weight, packaging, and labeling of packets. If the packages meet the criteria, they are sent; otherwise they are discarded to be repacked. Packages move on a conveyor belt through sensors, which output a symbol based on the measured value. These symbols indicate acceptance or rejection.
+**Q93.** If only frequency of L is taken as input, then what value should be added to the frequency of L so that bomb S will burst?
+A. 80 B. Can’t be determined C. 400 D. 700 E. 450
 
-Note: String of signal detects either 2-digit or 3-digit values.
-Conditions:
+**Q94.** If only frequency of K is taken as input, then what value should be subtracted from the frequency of K so that bomb S will burst?
+A. 618 B. 305 C. 200 D. 150 E. Can’t be determined
 
-1. If the value obtained is less than 200 then the package is not fit for delivery → symbol = #.
-2. If the value is ≥ 200 and < 300 → minor packaging issue → symbol = \$. (accepted)
-3. If the value is ≥ 300 and < 400 → less than standard weight → symbol = %. (accepted)
-4. If the value is ≥ 400 and < 500 → perfect → symbol = \*. (accepted)
-5. If the value is ≥ 500 → meets all standards → symbol = @. (accepted)
+**Q95.** If frequency of L is taken as input, then \_\_\_\_\_ bomb will burst.
+A. S B. Can’t be determined C. R D. T E. U
 
-Package A = 16 20 127 211
+Mathematical coding
 
-* 16 (even) → 20 – 16 = 4
-* 4 → 4 + 127 = 131
-* 131 → 131 + 211 = 342 → symbol = %.
+**Direction (96–100):**
+In a courier delivering unit, items are packed and sent to their respective addresses. Machines check weight, packaging and labeling. If packages meet the criteria they are sent on; others are discarded to repack. Packages move on a conveyor belt to pass through sensors. The signals detected are strings of numbers which map to symbols indicating acceptance or rejection.
 
-Package B = 9 15 216 14
+**Note:** Signal strings contain either 2 or 3 digits.
 
-* 9 (odd) → 9 × 15 = 135
-* 135 → 216 – 135 = 81
-* 81 → 81 – 14 = 67
+**Conditions:**
 
-Additional coding rules:
+1. If the value obtained from the sensor is less than 200 then the package is not fit for delivery; symbol = **#**.
+2. If the value is ≥ 200 and < 300 then there is a minor packaging issue; symbol = **\$**.
+3. If the value is ≥ 300 and < 400 then the package is below standard weight; symbol = **%**.
+4. If the value is ≥ 400 and < 500 then the package is perfect; symbol = **\***.
+5. If the value is ≥ 500 then the package meets all standards; symbol = **@**.
+
+**Example—Package A:** 16 20 127 211
+
+* 16 (even) → 20 ⇒ 20 – 16 = 4
+* 4 → 127 ⇒ 4 + 127 = 131
+* 131 → 211 ⇒ 131 + 211 = 342 ⇒ **%**
+
+**Example—Package B:** 9 15 216 14
+
+* 9 (odd) → 15 ⇒ 9 × 15 = 135
+* 135 → 216 ⇒ 216 – 135 = 81
+* 81 → 14 ⇒ 81 – 14 = 67
+
+**Further Rules:**
 a. Even → even: write their difference.
 b. Even → odd: write their sum.
 c. Odd → prime: write their sum.
@@ -1483,43 +1498,55 @@ d. Prime → prime: write their sum.
 e. Odd → composite: write their product.
 f. Odd → even: write their difference.
 
-Q96. If string of package C = 9 21 42 28 then what symbol will be displayed?
- A. \*  B. %  C. #  D. @  E. None of these
+**Q96.** If string of package C = 9 21 42 28 then what symbol will be displayed?
+A. \* B. % C. # D. @ E. None of these
 
-Q97. If string of package X = 16 18 216 279 then what symbol will be displayed?
- A. %  B. #  C. @  D. \*  E. None of these
+**Q97.** If string of package X = 16 18 216 279 then what symbol will be displayed?
+A. % B. # C. @ D. \* E. None of these
 
-Q98. If string of package L = 11 19 35 46 and P = 10 49 73 124, then what symbol will be displayed if both values are added?
- A. \*  B. %  C. @  D. #  E. None of these
+**Q98.** If string of package L = 11 19 35 46 and P = 10 49 73 124 then what symbol will be displayed if both values are added?
+A. \* B. % C. @ D. # E. None of these
 
-Q99. If string of package X = 34 15 118 156 then how much minimum value must be added to display ‘\$’?
- A. 164  B. 173  C. 113  D. 166  E. None of these
+**Q99.** If string of package X = 34 15 118 156 then how much least value would be needed to display ‘\$’?
+A. 164 B. 173 C. 113 D. 166 E. None of these
 
-Q100. If string of package X = 12 16 200 27 then how much minimum value must be subtracted to display ‘#’?
- A. 64  B. 13  C. 24  D. 16  E. None of these
+**Q100.** If string of package X = 12 16 200 27 then how much least value would be subtracted to display ‘#’?
+A. 64 B. 13 C. 24 D. 16 E. None of these
 
-Mathematical coding
+**Direction (101–105):**
+The following symbols represent clock positions:
 
-Direction (101-105): The following symbols represent time on a clock:
-& = 12 # = 3 > = 2 @ = 6 \$ = 9 % = 5 + = 8 \* = 7 ^ = 10 < = 1 ? = PM ! = AM
-Note: First symbol = hour; second symbol = minutes. (e.g., ^+ = 10:40)
+* **&**: hand at 12
+* **#**: hand at 3
+* **>**: hand at 2
+* **@**: hand at 6
+* **\$**: hand at 9
+* **%**: hand at 5
+* **+**: hand at 8
+* **\***: hand at 7
+* **^**: hand at 10
+* **<**: hand at 1
+* **?**: PM
+* **!**: AM
 
-Q101. If the Car starts its journey at %+! and moves at 20 km/h, then at what time does it cover 180 km?
- A. >+?  B. #+!  C. >+!  D. &+?  E. None of these
+**Note:** First symbol = hour; second = minutes. *(Ex: ^+ = 10:40)*
 
-Q102. A bike takes 7 hours to cover 280 km without break. If it stops at 2 shops for 15 min each and reaches at +@?, then when did it start?
- A. \$  B. \*@!  C. <&?  D. &@?  E. None of these
+**Q101.** If the car starts its journey at %+! and moves at 20 km/h, then at what time does it cover 180 km?
+A. >+? B. #+#! C. >+! D. &+? E. None of these
 
-Q103. If a train departs at \$&! and reaches after 18 hours, at what time does it arrive?
- A. >&?  B. #+!  C. #&!  D. >&\*  E. None of these
+**Q102.** The bike takes 7 h to cover 280 km without breaks. If it stops at 2 shops for 15 min each and reaches at +@?, when did it start?
+A. \$ B. \*@! C. <&? D. &@? E. None of these
 
-Q104. If a person spends 4 h watching a movie, 2 h traveling, and 1.5 h at a hotel, then arrives at ^#! to the mall, when did they start?
- A. >\$!  B. #\$!  C. >@?  D. \$>!  E. None of these
+**Q103.** If the train departed at \$&! and traveled 18 h, when will it arrive?
+A. >&? B. #+#! C. #&! D. >&\* E. None of these
 
-Q105. Abi and Anjali together do a job in 6 h; Abi alone in 18 h. If Anjali starts alone at #\$!, when will she finish?
- A. \$&!  B. % ^!  C. &\$?  D. %\$?  E. None of these
+**Q104.** A person spends 4 h watching a movie, 2 h traveling and 1.5 h in a hotel, then reaches the mall at ^#!. When did they start?
+A. >\$! B. #\$! C. >@? D. \$>! E. None of these
 
-THANK YOU Champions!
+**Q105.** Abi and Anjali together take 6 h to do a job; Abi alone takes 18 h. If Anjali starts alone at #\$!, when will she finish?
+A. \$&! B. %^! C. &\$? D. %\$? E. None of these
+
+Thank you, Champions!
 
 
 ## 008. Coding-Decoding Lecture – 8 (Structure Based) Mathematical coding
