@@ -1292,7 +1292,7 @@ Directions (1–5): Each sentence below is divided into five parts labeled A, B,
 **Q20.** (A) the clink of cups in the kitchen was the only signal that the day had begun./ (B) A single beam of sunlight filtered through the old bamboo blinds,/ (C) the Reserve Bank’s new monetary policy review is scheduled for next week/ (D) The newspapers, already on the doorstep, lay unread as he poured hot water into his kettle./ (E) Nothing about the room suggested urgency, yet time ticked forward with quiet precision.
 (a) B D A E (b) A D E B (c) B E A C (d) A B E C (e) B A D E
 
-##### The Hindu Editorial
+**The Hindu Editorial**
 
 The wedding season has finally wound up. One lasting imprint has been the colossal food wastage. While organising dinners for weddings of close relatives, I always kept a hawkish eye on the “used plates” table. Almost all were piled up with wasted food which could have fed several people. I wondered why even educated people had been so insensitive towards the social obligation of not wasting food. The other day, while travelling by train from New Delhi to Patiala, I chanced upon a B.Tech. student. He spoke of how he had excelled at managing the student mess with software he developed to keep a digital record of wasted food in grams. Every student’s plate gets weighed, and depending on the weight, he has to pay a fine.
 
