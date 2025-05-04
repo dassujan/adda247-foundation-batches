@@ -896,7 +896,7 @@ Fervor, also a noun, refers to intense passion or enthusiasm. It’s related to 
 I will win *(yaad rkhna forever)*
 
 **Directions (1–5):**
-Each sentence below is divided into five parts labeled A, B, C, D, and E. Rearrange these parts to form a coherent and contextually correct sentence. One part is an odd one out and does not fit in the sentence. Choose the option that represents the correct sequence excluding the odd part.&#x20;
+Each sentence below is divided into five parts labeled A, B, C, D, and E. Rearrange these parts to form a coherent and contextually correct sentence. One part is an odd one out and does not fit in the sentence. Choose the option that represents the correct sequence excluding the odd part.
 
 **Q1.**
 (A) although the sky looked threatening
@@ -1227,3 +1227,163 @@ Example Sentence: She tried to conceal her disappointment when she received the 
 3. **Shifted onto**
    Meaning: To transfer blame or responsibility to someone or something.
    Example: “The blame has been shifted onto travellers for the chaos during the stampede.”
+
+##  016. sentence rearrangement odd, RC + Vocab
+
+Directions (1–5): Each sentence below is divided into five parts labeled A, B, C, D, and E. Rearrange these parts to form a coherent and contextually correct sentence. One part is an odd one out and does not fit in the sentence. Choose the option that represents the correct sequence excluding the odd part.
+
+**Q1.** (A) although the sky looked threatening/ (B) the match continued without any interruption/ (C) the players discussed the weather over lunch/ (D) with dark clouds hovering above/ (E) as if it would rain any moment,
+(a) A D E B (b) A C D B (c) D E A C (d) A D B C (e) C D B E
+
+**Q2.** (A) the government aims to bridge the urban-rural education divide/ (B) by implementing policies that promote digital learning platforms,/ (C) and provide necessary infrastructure to remote areas/ (D) in an effort to enhance accessibility and quality of education/ (E) emphasizing the importance of traditional classroom methods
+(a) B A C D (b) A B E C (c) E A D C (d) D A B C (e) A D E C
+
+**Q3.** (A) the government aims to achieve net-zero emissions by 2070/ (B) by implementing policies that promote renewable energy adoption/ (C) and enhance energy efficiency across various sectors/ (D) while ensuring economic growth and development/ (E) emphasizing the importance of international trade agreements.
+(a) B C A D (b) A E D C (c) B A C D (d) E A B C (e) A D C B
+
+**Q4.** (A) The National Education Policy aims to transform the educational landscape/ (B) by emphasizing multidisciplinary learning and critical thinking/ (C) while also promoting the integration of technology in classrooms/ (D) highlighting the importance of physical education and sports./ (E) to equip students with skills relevant to the 21st century/
+(a) A B C E (b) A C B D (c) A B D E (d) B A C E (e) A D C B
+
+**Q5.** (A) to curb industrial emissions/ (B) the government has introduced stringent regulations/ (C) and promote the use of renewable energy sources/ (D) aiming to achieve a significant reduction in air pollution/ (E) highlighting the importance of international trade agreements
+(a) B A C D (b) A B E D (c) B C A E (d) D A B C (e) A E C B
+
+**Q6.** (A) the Prime Minister inaugurated the Sonamarg Tunnel in Jammu and Kashmir/ (B) emphasizing the need for digital literacy programs/ (C) facilitating year-round access to the tourist destination/ (D) as part of the government’s infrastructure development initiatives/ (E) to enhance connectivity in the region
+(a) A B C D (b) D A E C (c) A C B E (d) B A D C (e) A D E B
+
+**Q7.** (A) the Supreme Court ruled that domicile-based reservations in postgraduate medical admissions/ (B) violate the right to equality under Article 14 of the Constitution/ (C) emphasizing the need for merit-based admissions/ (D) in a landmark judgment/ (E) highlighting the importance of international trade agreements
+(a) D A B C (b) A B E C (c) D A C E (d) A D E C (e) A C D B
+
+**Q8.** (A) the government has launched the Mahila Samridhi Yojana/ (B) emphasizing the role of technology startups in economic growth/ (C) to provide financial assistance to economically weaker women in New Delhi/ (D) allocating ₹5,100 crore for its implementation and/ (E) offering ₹2,500 monthly to eligible beneficiaries
+(a) A B D C (b) B A C E (c) A C B D (d) A C D E (e) B A E D
+
+**Q9.** (A) the Defence Ministry declared 2025 as the ‘Year of Reforms’,/ (B) focusing on the implementation of Integrated Theatre Commands/ (C) highlighting the significance of cultural heritage preservation/ (D) to enhance jointness and efficiency among the armed forces/ (E) and advancements in cybersecurity and space technologies
+(a) B C D E (b) A C B D (c) A B E D (d) A B C D (e) D C A B
+
+**Q10.** (A) to build public trust in institutions/ (B) and ensure that justice is both accessible and timely/ (C) the Supreme Court has emphasized speedy trials/ (D) reducing dependency on imported oil/ (E) especially in cases involving undertrial prisoners
+(a) C A B E (b) B C E D (c) E C A B (d) C A D E (e) C A B D
+
+**Q11.** (A) while facilitating the digitisation of land records/ (B) the government launched a portal under the Digital India Land Records Modernization Programme/ (C) to ensure transparency in land ownership/ (D) and reduce disputes in rural and urban areas/ (E) calling for reform in the multilateral trade framework
+(a) B A C D (b) A B C E (c) C D B A (d) B C D E (e) B A C E
+
+**Q12.** (A) researchers from India and the UK conducted a joint study,/ (B) finding microplastic traces in Himalayan snow samples/ (C) which raised concerns about long-term ecological consequences/ (D) experts emphasized the need for AI integration in classrooms/ (E) highlighting the widespread impact of global pollution even in remote regions
+(a) A B D C (b) B A C E (c) A D B C (d) A B C E (e) A E B D
+
+**Q13.** (A) scientists at ICMR released a study linking air pollution to rising cardiovascular risks/ (B) especially among urban populations exposed to high PM2.5 levels./ (C) triggering renewed policy discussions on stricter emission regulations./ (D) while the stock market rebounded following IT sector gains,/ (E) The findings underscore the urgency of urban air quality management,
+(a) A B E C (b) A D B E (c) C A B D (d) E A C B (e) A B D E
+
+**Q14.** (A) following prolonged negotiations under the Indo-Pacific Economic Framework/ (B) India signed a digital trade agreement with key Southeast Asian economies/ (C) which is expected to streamline cross-border data flows/ (D) and establish a unified compliance protocol for digital services/ (E) tribal artisans showcased handwoven products at a state cultural expo
+(a) B C D A (b) A B D C (c) B A C D (d) C D E B (e) B D C E
+
+**Q15.** (A) and beginning to echo dominant power structures without scrutiny./ (B) The role of journalism lies in challenging narratives, not simply amplifying them,/ (C) An independent press is vital for democratic resilience./ (D) weather forecasts indicate a shift in monsoon wind patterns/ (E) especially in times when public trust in institutions is eroding
+(a) C B E A (b) B A D E (c) C A E D (d) A B C E (e) B C E A
+
+**Q16.** (A) National identity is often shaped by what societies choose to remember or forget./ (B) Public monuments and textbooks play a quiet but powerful role in this process,/ (C) and this selective storytelling is rarely neutral in intent or impact./ (D) inflation data showed a marginal increase in food prices,/ (E) especially when political ideologies influence historical narratives
+(a) A B E C (b) C A E D (c) A C D B (d) A B C D (e) A B E D
+
+**Q17.** (A) such spatial marginalisation often results in uneven exposure to environmental risks./ (B) circular migration patterns have redefined the urban periphery in several states/ (C) the Education Ministry has revised the foundational literacy benchmarks/ (D) where workers settle in transit zones without formal housing or public services/ (E) creating zones of informality that rarely feature in formal urban planning frameworks–
+(a) B D E A (b) A E B C (c) D B E A (d) B D A E (e) B E A C
+
+**Q18.** (A) a just energy transition must ensure communities are not displaced without recourse/ (B) especially as green infrastructure begins to replace legacy systems in mineral-rich zones/ (C) the rise in FDI inflows signals investor confidence across core sectors/ (D) ––– without redistributive planning, clean growth may deepen existing inequalities/ (E) highlighting the tension between environmental ambition and social justice
+(a) A B E D (b) B D A C (c) D E A C (d) A D C E (e) E B D C
+
+**Q19.** (A) while also bridging longstanding access gaps in rural and remote regions/ (B) The rollout of digital public infrastructure has transformed welfare service delivery./ (C) Such foundational systems enable real-time tracking, authentication, and portability/ (D) India’s merchandise exports saw a dip amid global slowdown/ (E) but the challenge of digital literacy continues to affect equitable uptake,
+(a) B C E A (b) C A B D (c) B A E D (d) C E A D (e) B C A D
+
+**Q20.** (A) the clink of cups in the kitchen was the only signal that the day had begun./ (B) A single beam of sunlight filtered through the old bamboo blinds,/ (C) the Reserve Bank’s new monetary policy review is scheduled for next week/ (D) The newspapers, already on the doorstep, lay unread as he poured hot water into his kettle./ (E) Nothing about the room suggested urgency, yet time ticked forward with quiet precision.
+(a) B D A E (b) A D E B (c) B E A C (d) A B E C (e) B A D E
+
+##### The Hindu Editorial
+
+The wedding season has finally wound up. One lasting imprint has been the colossal food wastage. While organising dinners for weddings of close relatives, I always kept a hawkish eye on the “used plates” table. Almost all were piled up with wasted food which could have fed several people. I wondered why even educated people had been so insensitive towards the social obligation of not wasting food. The other day, while travelling by train from New Delhi to Patiala, I chanced upon a B.Tech. student. He spoke of how he had excelled at managing the student mess with software he developed to keep a digital record of wasted food in grams. Every student’s plate gets weighed, and depending on the weight, he has to pay a fine.
+
+It took me back to my UN tenure in Israel. Most restaurants there offered an “all-you-can-eat” package but fined customers if they wasted food. In Japan, it’s considered impolite to waste even a single grain of rice. A few days ago, I saw a video of an Indian wedding. The host had posted two tough waiters at the “used plates” table to ensure that guests left their plates empty. If anyone came with leftovers, they were forced to eat them on the spot, or they were not allowed to keep their plates. What a way to send a great social message across. So think twice before piling food on the plate.
+
+1. What is the main reason behind the food wastage observed during the wedding season as mentioned in the passage?
+   A) Lack of awareness about food wastage
+   B) Guests' reluctance to consume too much food
+   C) Social pressure to serve more food than required
+   D) Lack of education on food conservation
+   E) All of the above
+
+2. According to the passage, what initiative did the B.Tech. student take to reduce food wastage in the student mess?
+   A) Developed a software to track wasted food in grams and imposed fines based on wastage
+   B) Created a new menu to minimize food wastage
+   C) Encouraged students to eat less by offering smaller portions
+   D) Raised awareness about food wastage through seminars
+   E) Introduced food-sharing programs among students
+
+3. What cultural practice regarding food wastage is mentioned in the passage about Japan?
+   A) Restaurants charge guests based on the amount of food they waste
+   B) It is considered impolite to waste even a single grain of rice
+   C) People are encouraged to take larger servings at restaurants to avoid wastage
+   D) Guests are forced to finish their food before leaving a restaurant
+   E) People use technology to track their food wastage
+
+4. What is the approach adopted by the host in the Indian wedding to tackle food wastage?
+   A) Placing large portions of food on guests’ plates to ensure they eat enough
+   B) Hiring waiters to ensure guests are served according to their appetite
+   C) Sending back guests with leftover food to reduce wastage
+   D) Posting tough waiters at the “used plates” table to ensure guests finish their food
+   E) Offering a fine if guests leave food uneaten on their plates
+
+**Vocabulary**
+
+1. **Wound up**
+
+* to be in a state of high tension, anxiety, or agitation. (Adjective)
+* the process of bringing something to a conclusion or ending it. (Verb)
+* to end up in a particular situation or place, often unexpectedly.
+
+  * Synonyms: Agitated, Nervous, Conclude, End
+  * Antonyms: Calm, Untroubled, Composed, Begin
+  * *She was all \_\_\_\_\_\_\_\_ before the big game.*
+
+2. **Lasting** (Adjective)
+   continuing or enduring for a long time
+
+* Synonyms: Permanent, Enduring, Eternal, Perpetual
+* Antonyms: Temporary, Transient, Fleeting, Short-lived
+
+Different forms of “lasting” and their part of speech:
+
+* Noun: durable fabric used for shoe uppers or other coverings
+* Lastingly (Adverb): done in a lasting or enduring way (“we can only dream \_\_\_\_\_\_”)
+* Lastingness (Noun): the quality of being lasting or enduring (“the \_\_\_\_\_\_\_\_\_ of his memory”)
+* Long-lasting (Adjective): lasting for a long time or durable
+* Short-lasting (Adjective): lasting only for a short time
+
+3. **Imprint**
+   A. To mark by or as if by pressure; to stamp. (Verb)
+
+   * *The scene was \_\_\_\_\_\_\_ in her memory.*
+     B. A mark made by pressure or stamping; a lasting effect; the publisher’s name on a book. (Noun)
+   * *The footprint left an \_\_\_\_\_\_\_ in the sand.*
+
+* Synonyms: mark, impression, effect, influence, signature, stamp
+* Antonyms: erase, obliterate, expunge, blot out
+
+4. **Hawkish eye**
+
+* Hawkish: watching something very closely or with a lot of attention. (Adjective)
+* Hawkish eye: an eye for detail. (Noun)
+* Synonyms: sharp-eyed, keen-sighted, observant, watchful, lynx-eyed
+* Antonyms: stone-blind, visionless, myopic, eyeless
+
+5. **Colossal**
+
+* extremely large or of great size. (Adjective)
+
+  * *The building was colossal.*
+* Adverb: “He worked \_\_\_\_\_\_\_ hard.”
+* Synonyms: enormous, gigantic, huge, immense, vast, massive
+* Antonyms: small, tiny, little, minute, diminutive, miniature
+
+6. **Piled up**
+
+* Verb: past tense and past participle of “pile up.”
+* Phrasal verb: “pile up” meaning to accumulate.
+* Noun: “pile-up” (hyphenated) referring to a traffic accident involving multiple vehicles.
+
+  * *A 54-car \_\_\_\_\_\_ caused major traffic delays.*
+* Synonyms: accumulate, collect, gather, build up, amass, stack, heap up
+* Antonyms: disperse, scatter, dissipate
