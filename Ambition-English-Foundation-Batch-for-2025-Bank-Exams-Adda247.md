@@ -1387,3 +1387,363 @@ Different forms of “lasting” and their part of speech:
   * *A 54-car \_\_\_\_\_\_ caused major traffic delays.*
 * Synonyms: accumulate, collect, gather, build up, amass, stack, heap up
 * Antonyms: disperse, scatter, dissipate
+
+
+# 017. Parajumble Basics
+
+## Vocabulary List
+
+* **Babel** (Noun):
+
+  * *Meaning:* A confused noise made by several voices.
+  * *Example:* Amidst all the confusion and babel of voices, there resounded the furious barking of a dog.
+  * *Synonyms:* Clamor, tumult, Pandemonium, Bedlam.
+  * *Antonyms:* serenity, tranquility, quietude, lull.
+* **Struggled** (Verb):
+
+  * *Meaning:* To make a forceful effort to get free of restraint or resist attack; to strive to achieve or deal with difficulty.
+  * *Example:* She struggled to lift the heavy box despite her aching muscles.
+  * *Synonyms:* wrestled, strove, toiled, grappled.
+  * *Antonyms:* yielded, surrendered, submitted, relented.
+* **Ran out of** (Phrasal Verb):
+
+  * *Meaning:* To no longer have something because it has been used or consumed completely.
+  * *Example:* Just as the presentation was getting intense, the speaker ran out of data on his device.
+  * *Synonyms:* depleted, exhausted, drained, was bereft of.
+  * *Antonyms:* replenished, restocked, replete with, well-supplied.
+* **Repertoire** (Noun):
+
+  * *Meaning:* A collection of skills, techniques, or works that a person or group is prepared to perform or use.
+  * *Example:* The pianist added three new compositions to her growing repertoire.
+  * *Synonyms:* arsenal, catalog, collection, stockpile.
+  * *Antonyms:* deficiency, scarcity, inadequacy, dearth.
+* **Nodding Acquaintance** (Noun):
+
+  * *Meaning:* A slight or superficial familiarity with a person or subject, often limited to mere recognition.
+  * *Example:* Though we worked in the same building, we only had a nodding acquaintance.
+  * *Synonyms:* superficial knowledge, passing familiarity, distant connection, cursory awareness.
+  * *Antonyms:* intimate knowledge, deep familiarity, close relationship, thorough understanding.
+* **Fellow** (Noun):
+
+  * *Meaning:* A person in the same position, involved in the same activity, or otherwise associated with another.
+  * *Example:* He helped his fellow passengers during the emergency without hesitation.
+  * *Synonyms:* companion, peer, comrade, associate.
+  * *Antonyms:* outsider, rival, stranger, opponent.
+* **Irrelevant** (Adjective):
+
+  * *Meaning:* Not connected with or applicable to the matter at hand.
+  * *Example:* His comment about the weather was completely irrelevant to our discussion on finance.
+  * *Synonyms:* immaterial, inapplicable, extraneous, inconsequential.
+  * *Antonyms:* pertinent, applicable, germane, significant.
+* **Appropriate** (Adjective):
+
+  * *Meaning:* Suitable or proper in the circumstances.
+  * *Example:* Her tone was perfectly appropriate for the formal event.
+  * *Synonyms:* fitting, apt, pertinent, suitable.
+  * *Antonyms:* improper, unsuitable, irrelevant, incongruous.
+* **Imposition** (Noun):
+
+  * *Meaning:* An unwelcome demand or burden placed on someone.
+  * *Example:* Asking her to work over the weekend felt like an unfair imposition.
+  * *Synonyms:* burden, encumbrance, intrusion, obligation.
+  * *Antonyms:* favor, relief, privilege, exemption.
+* **Coercion** (Noun):
+
+  * *Meaning:* The practice of persuading someone to do something by using force or threats.
+  * *Example:* The confession was obtained through coercion and was later deemed inadmissible.
+  * *Synonyms:* compulsion, duress, intimidation, pressure.
+  * *Antonyms:* consent, volition, willingness, freedom.
+* **Provokes** (Verb):
+
+  * *Meaning:* To stimulate or incite a reaction or feeling, often resulting in anger or annoyance.
+  * *Example:* His reckless behavior provokes those around him, causing tension in the group.
+  * *Synonyms:* irritates, annoys, incites, angers.
+  * *Antonyms:* calms, soothes, appeases, pacifies.
+* **Rejection** (Noun):
+
+  * *Meaning:* The action of refusing to accept, believe, or agree with something.
+  * *Example:* Her rejection of the offer came as a surprise to everyone.
+  * *Synonyms:* refusal, denial, dismissal, rebuff.
+  * *Antonyms:* acceptance, approval, embrace, consent.
+* **Precede** (Verb):
+
+  * *Meaning:* To come before something in time, order, or position.
+  * *Example:* The meeting will precede the conference, starting at 9 AM.
+  * *Synonyms:* precede, lead, usher, antedate.
+  * *Antonyms:* follow, succeed, come after, trail.
+* **Assessment** (Noun):
+
+  * *Meaning:* The evaluation or estimation of the nature, quality, or ability of someone or something.
+  * *Example:* The final assessment of the project will determine whether it meets the company's standards.
+  * *Synonyms:* evaluation, appraisal, analysis, judgment.
+  * *Antonyms:* misjudgment, neglect, disregard, oversight.
+* **Pros and Cons** (Noun Phrase):
+
+  * *Meaning:* The advantages and disadvantages of something.
+  * *Example:* Before making a decision, it's important to weigh the pros and cons of each option.
+  * *Synonyms:* advantages and disadvantages, benefits and drawbacks, strengths and weaknesses, positives and negatives.
+  * *Antonyms:* none (as this is a comparative phrase, it doesn't have direct antonyms, but the opposite could be considered a "balance" or "neutrality" when there's no clear advantage or disadvantage).
+* **Demonetization** (Noun):
+
+  * *Meaning:* The act of stripping a currency unit of its status as legal tender, often done by a government.
+  * *Example:* The government's demonetization policy aimed at curbing black money and counterfeit currency.
+  * *Synonyms:* invalidation, devaluation, withdrawal of currency, cancellation.
+  * *Antonyms:* revaluation, reissuance, legalization, reintroduction.
+* **Wary** (Adjective):
+
+  * *Meaning:* Feeling or showing caution about possible dangers or problems.
+  * *Example:* She was wary of accepting the job offer without more information.
+  * *Synonyms:* cautious, careful, guarded, alert.
+  * *Antonyms:* unwary, careless, reckless, trusting.
+* **Agitations** (Noun):
+
+  * *Meaning:* A state of nervousness, anxiety, or excitement, or the act of stirring up public unrest or political movement.
+  * *Example:* The agitator's speech caused widespread agitations among the crowd.
+  * *Synonyms:* unrest, turmoil, anxiety, disturbance.
+  * *Antonyms:* calm, peace, tranquility, serenity.
+* **Rode** (Verb):
+
+  * *Meaning:* The past tense of "ride," meaning to travel on or in something (especially an animal or vehicle).
+  * *Example:* They rode horses along the beach at sunset.
+  * *Synonyms:* rode, traveled, journeyed, cruised.
+  * *Antonyms:* walked, dismounted, stopped, alighted.
+* **Opposition** (Noun):
+
+  * *Meaning:* The action of resisting or combating.
+  * *Example:* The senator faced strong opposition from the rival party.
+  * *Synonyms:* resistance, hostility, rivalry, antagonism.
+  * *Antonyms:* support, approval, agreement, cooperation.
+* **Nestling** (Verb):
+
+  * *Meaning:* Settling or lying comfortably within or against something.
+  * *Example:* The cat was nestling comfortably in the warmth of the blanket.
+  * *Synonyms:* snuggling, huddling, cuddling, cradling.
+  * *Antonyms:* distancing, separating, dislodging.
+* **Ridiculous** (Adjective):
+
+  * *Meaning:* Deserving or inviting mockery or laughter due to being absurd or unreasonable.
+  * *Example:* The idea of walking to the moon without proper equipment is simply ridiculous.
+  * *Synonyms:* absurd, laughable, preposterous, foolish.
+  * *Antonyms:* reasonable, sensible, logical, rational.
+* **Chauvinism** (Noun):
+
+  * *Meaning:* An exaggerated or aggressive loyalty to a group or cause, often with belief in the superiority of one's own group.
+  * *Example:* Chauvinism can lead people to blindly support their team or country without considering other perspectives.
+  * *Synonyms:* jingoism, nationalism, partisanship, bias.
+  * *Antonyms:* open-mindedness, tolerance, equality, inclusiveness.
+* **Nativism** (Noun):
+
+  * *Meaning:* The policy or belief that native-born citizens should have superior rights over immigrants, often accompanied by a resistance to immigration.
+  * *Example:* Nativism became more prominent in the country as debates over immigration policy heated up.
+  * *Synonyms:* nationalism, xenophobia, patriotism, protectionism.
+  * *Antonyms:* cosmopolitanism, inclusiveness, globalism, open-mindedness.
+* **Warriors** (Noun):
+
+  * *Meaning:* Individuals engaged in or experienced in warfare or conflict, often seen as brave or skilled fighters.
+  * *Example:* The ancient warriors fought valiantly to protect their land.
+  * *Synonyms:* fighters, soldiers, combatants, knights.
+  * *Antonyms:* pacifists, civilians, noncombatants, bystanders.
+* **Gradual** (Adjective):
+
+  * *Meaning:* Happening or changing slowly over time, without abrupt or sudden shifts.
+  * *Example:* The gradual increase in temperature over the summer made the transition to fall much more comfortable.
+  * *Synonyms:* slow, steady, progressive, incremental.
+  * *Antonyms:* sudden, abrupt, rapid, swift.
+
+## Parajumble Question Sets
+
+* **Set 1:**
+
+  * A. He searched for food and water sources.
+  * B. Rahul found himself lost in a dense forest.
+  * C. He climbed a tree to get a better view.
+  * D. He tried to stay calm and plan his next steps.
+  * E. There was no sign of a path or people nearby.
+  * *Options:*
+
+    * A) BDEAC
+    * B) BDCEA
+    * C) BEDAC
+    * D) BDAEC
+    * E) None of these
+  * *Answer:* A
+* **Set 2:**
+
+  * A. Finally, it opened its wings and flew away.
+  * B. The bird sat silently on the branch.
+  * C. It seemed to be watching something carefully.
+  * D. After a few minutes, it flapped its wings.
+  * E. Everyone around watched in admiration.
+  * *Options:*
+
+    * A) BCADE
+    * B) BCDEA
+    * C) BDCAE
+    * D) BDCAE
+    * E) None of the above
+  * *Answer:* D
+* **Set 3:**
+
+  * A. The school organized a cleanliness drive.
+  * B. The students gathered early in the morning.
+  * C. They cleaned classrooms, corridors, and the playground.
+  * D. Teachers and staff also joined in.
+  * E. Everyone felt proud of their efforts.
+  * *Options:*
+
+    * A) ABCDE
+    * B) ACBDE
+    * C) ABDEC
+    * D) ABDCE
+    * E) None of the above
+  * *Answer:* D
+* **Set 4:**
+
+  * A. She practised every day without fail.
+  * B. Riya wanted to win the singing competition.
+  * C. Her hard work paid off in the end.
+  * D. She sought guidance from her music teacher.
+  * E. The results were announced on the final day.
+  * *Options:*
+
+    * A) BACDE
+    * B) BADCE
+    * C) BDACE
+    * D) BDAEC
+    * E) None of the above
+  * *Answer:* C
+* **Set 5:**
+
+  * A. They spotted a few animals along the way.
+  * B. The safari jeep moved slowly through the forest.
+  * C. The guide explained each sighting in detail.
+  * D. Everyone was excited to see a tiger.
+  * E. The experience was thrilling for the tourists.
+  * *Options:*
+
+    * A) BACDE
+    * B) ABCDE
+    * C) BCADE
+    * D) BDCAE
+    * E) None of the above
+  * *Answer:* A
+* **Set 6:**
+
+  * A. The alarm went off suddenly.
+  * B. She grabbed her bag and ran outside.
+  * C. The building was quickly evacuated.
+  * D. Everyone panicked.
+  * E. Firefighters arrived within minutes.
+  * *Answer:* A-D-C-B-E
+* **Set 7:**
+
+  * A. He started waking up early.
+  * B. Ramesh wanted to improve his health.
+  * C. He joined a yoga class.
+  * D. He also stopped eating junk food.
+  * E. Soon, he felt more energetic and fit.
+  * *Answer:* B-A-C-D-E
+* **Set 8:**
+
+  * A. It flew over the fields and trees.
+  * B. The eagle spread its wings wide.
+  * C. Then it dived sharply to catch its prey.
+  * D. The prey never stood a chance.
+  * E. Its movements were quick and graceful.
+  * *Answer:* B-A-E-C-D
+* **Set 9:**
+
+  * A. Her books were all over the place.
+  * B. She cleaned the mess and organized the shelf.
+  * C. Riya decided to clean her room.
+  * D. The floor was dusty and the bed was unmade.
+  * E. It looked neat and tidy afterward.
+  * *Answer:* C-A-D-B-E
+* **Set 10:**
+
+  * A. The sun was setting behind the hills.
+  * B. Birds were flying back to their nests.
+  * C. The sky turned orange and pink.
+  * D. Children stopped playing and headed home.
+  * E. The day came to a peaceful end.
+  * *Answer:* A-C-B-D-E
+* **Set 11:**
+
+  * A. He looked at the clock nervously.
+  * B. His interview was scheduled in an hour.
+  * C. He took a deep breath and smiled.
+  * D. His friend wished him good luck.
+  * E. He knew he had prepared well.
+  * *Answer:* B-A-C-E-D
+* **Set 12:**
+
+  * A. Farmers depend on it for their crops.
+  * B. Monsoon plays a crucial role in the economy.
+  * C. It is essential for irrigation.
+  * D. Without it, agriculture would suffer.
+  * E. It brings relief from the summer heat.
+  * *Answer:* B-E-A-C-D
+* **Set 13:**
+
+  * A. She looked at the menu.
+  * B. After a long day, Neha went to her favorite cafe.
+  * C. She ordered a cup of hot coffee and smiled.
+  * D. The aroma of coffee made her smile.
+  * E. It was the perfect way to unwind.
+  * *Answer:* B-A-C-D-E
+* **Set 14:**
+
+  * A. The teacher entered the classroom.
+  * B. She greeted the students with a warm smile.
+  * C. Everyone settled down quietly.
+  * D. She began the storytelling session.
+  * E. The story caught everyone's attention.
+  * *Answer:* A-C-B-D-E
+* **Set 15:**
+
+  * A. The boy slipped and fell into the water.
+  * B. His friends saw him struggling and shouted.
+  * C. One of them jumped in to help.
+  * D. He was lifted back to safety.
+  * E. Everyone thanked the brave rescuer.
+  * *Answer:* A-B-C-D-E
+* **Set 16:**
+
+  * A. She trained every single day.
+  * B. Her dream was to win the national championship.
+  * C. She never gave up.
+  * D. She faced many challenges along the way.
+  * E. Finally, her hard work paid off.
+  * *Answer:* B-A-C-D-E
+* **Set 17:**
+
+  * A. The internet has changed how we communicate.
+  * B. Social media connects people instantly.
+  * C. Emails have replaced letters.
+  * D. Information travels faster than ever before.
+  * E. These changes have reshaped modern life.
+  * *Answer:* A-C-B-D-E
+* **Set 18:**
+
+  * A. The storm lasted all night.
+  * B. Trees were uprooted and roads were blocked.
+  * C. Electricity was cut off in several areas.
+  * D. Morning brought scenes of heavy destruction.
+  * E. Emergency services began rescue operations.
+  * *Answer:* A-B-C-D-E
+* **Set 19:**
+
+  * A. He took out a piece of paper and started drawing.
+  * B. Raj sat by the window, watching the rain.
+  * C. His sketch captured the beauty of the moment.
+  * D. The sound of raindrops inspired him.
+  * E. Soon, he was lost in his imagination.
+  * *Answer:* B-D-A-E-C
+* **Set 20:**
+
+  * A. He reached the airport well ahead of time.
+  * B. Security checks took only a few minutes.
+  * C. He grabbed a coffee while waiting at the gate.
+  * D. His flight was announced after an hour.
+  * E. He boarded and found his seat comfortably.
+  * *Answer:* A-B-C-D-E
