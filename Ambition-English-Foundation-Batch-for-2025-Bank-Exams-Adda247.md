@@ -1947,3 +1947,254 @@ If southern states are wary of Hindi imposition, they have the historical agitat
 - C) All children must be fluent in their mother tongue  
 - D) Rejection can be avoided through more exams  
 **Correct Answer:** B) Forced learning of languages often leads to resistance  
+
+# 019. parajumble pre level
+
+### Almonds and Health: Research Findings and Practice
+
+### Article
+
+Recent meta-analyses of studies on the benefits of consuming almonds, published in a peer-reviewed journal, have shown that the tree nut has ameliorative impacts on multiple aspects of health. The results suggest that almond consumption leads to small reductions in weight, LDL cholesterol (bad cholesterol), and diastolic blood pressure, as well as improved glycemic responses in Asian Indians.
+
+These findings were published in a paper titled *“Current Scientific Evidence and Research Strategies in the Role of Almonds in Cardiometabolic Health”* in the peer-reviewed journal *Current Developments in Nutrition*. The analyses of multiple studies showed that almond consumption does not cause weight gain, and may even contribute to reductions in body weight at doses of about 50 grams per day. The authors — from the United States, Canada, France, and India — noted that almonds have a beneficial impact on lowering cholesterol. They found that almond consumption results in a small but significant reduction in LDL cholesterol (about 5 %) for the general population, including those at risk of chronic diseases.
+
+Anoop Misra, a senior diabetologist from the Fortis C-DOC Center for Diabetes, Obesity, Metabolic Diseases, and Endocrinology in New Delhi, explains that almonds contain several components believed to contribute to cholesterol reduction, including β-sitosterol (for which there is well-established evidence of lowering LDL cholesterol levels), monounsaturated fats (67 %), polyunsaturated fats (11 %), and dietary fiber (11 %). The study, funded by the Almond Board of California, also reports that in Asian Indians with prediabetes, consuming a daily dose of almonds led to significant reductions in fasting blood glucose and HbA1c levels.
+
+Dr. Misra adds context from his own research: Over a three-month period, his team had participants consume 20 grams of almonds 30 minutes before each major meal. They found significant improvements in body weight, waist circumference, glycemic control (particularly postprandial glucose), and insulin resistance. Notably, 23.3 % of participants in the almond group reverted from prediabetes to normal glucose regulation, a figure comparable to results seen with the medication Acarbose (25 %).
+
+> **Dr. Misra’s advice:**  
+> “Have almonds, half a fistful each in the morning and evening. People with diabetes can have them as a snack between meals or 30 minutes before meals (based on our study). In some people, to enhance efficacy, this may be increased (for example, eating 20 g two or three times daily) after reducing calories from other items.”
+
+### Vocabulary
+
+1. **Consuming** (Adjective/Verb)  
+   - *Meaning:* Taking up all attention or energy  
+   - *Hindi:* थकानेवाला / संलन  
+   - *Example:* His consuming passion for chess often kept him up all night.  
+   - *Synonyms:* engrossing, intense, overwhelming, fervent, ardent, devouring  
+   - *Antonyms:* mild, weak, casual, detached, uninterested  
+
+2. **Peer** (Noun/Verb)  
+   - *Meaning:* As a noun, a person of the same age or status; as a verb, to look closely  
+   - *Hindi:* समकक्ष / झांकना  
+   - *Example:* Children often feel pressure to conform to their peers.  
+   - *Synonyms:* companion, contemporary, colleague, cohort  
+   - *Antonyms:* superior, inferior, boss, subordinate, elder  
+
+3. **Ameliorate** (Verb)  
+   - *Meaning:* To make better or more tolerable  
+   - *Hindi:* सुधारना  
+   - *Example:* Measures were taken to ameliorate the living conditions of the poor.  
+   - *Synonyms:* improve, enhance, upgrade, alleviate  
+   - *Antonyms:* worsen, deteriorate, aggravate, exacerbate  
+
+4. **Significant** (Adjective)  
+   - *Meaning:* Important and meaningful  
+   - *Hindi:* महत्वपूर्ण  
+   - *Example:* Climate change has significant effects on weather patterns.  
+   - *Synonyms:* important, notable, substantial, crucial, remarkable, vital  
+   - *Antonyms:* trivial, minor, insignificant, negligible, unimportant  
+
+5. **Circumference** (Noun)  
+   - *Meaning:* The boundary of a circle  
+   - *Hindi:* परिधि  
+   - *Example:* He measured the circumference of the circular table.  
+   - *Synonyms:* perimeter, boundary, edge, rim, girth  
+   - *Antonyms:* center, core, middle, interior, inside  
+
+6. **Fistful** (Noun)  
+   - *Meaning:* A quantity that can be held in one’s fist  
+   - *Hindi:* मुट्ठीभर  
+   - *Example:* She gave him a fistful of coins.  
+   - *Synonyms:* handful, bunch, cluster, pocketful, scoop, clump  
+   - *Antonyms:* abundance, load, heap, mass, plenitude, plethora  
+
+7. **Reversal** (Noun)  
+   - *Meaning:* A change to an opposite direction or position  
+   - *Hindi:* उलटफेर  
+   - *Example:* The new policy marked a reversal of previous decisions.  
+   - *Synonyms:* turnaround, flip, alteration, inversion, regression, reversion  
+   - *Antonyms:* continuation, stability, permanence, progression, maintenance  
+
+### Idioms
+
+- **The proof is in the pudding**  
+  Used when referring to evidence that confirms something is true.  
+  *Example:* “The proof is in the pudding — multiple studies confirm almonds can lower LDL cholesterol and aid weight loss.”
+
+- **A step in the right direction**  
+  Used to describe a small improvement that is moving toward a positive outcome.  
+  *Example:* “Even minor reductions in weight and cholesterol are a step in the right direction for cardiometabolic health.”
+
+- **Food for thought**  
+  Used to describe something that warrants deep consideration.  
+  *Example:* “The findings offer some food for thought for anyone looking to manage their cholesterol or prediabetes naturally.”
+
+- **Hit the nail on the head**  
+  Used to say that someone’s statement or action is precisely correct.  
+  *Example:* “Dr. Misra hits the nail on the head by recommending a realistic almond intake strategy.”
+
+- **Not carved in stone**  
+  Used to indicate that something is not fixed and may change.  
+  *Example:* “While results are promising, the ideal almond dosage isn’t carved in stone and may vary from person to person.”
+
+## Comprehension Questions
+
+1. **Which health benefits are associated with almond consumption according to recent meta-analyses?**  
+   a) Increased HDL and LDL cholesterol  
+   b) Weight gain and higher blood sugar  
+   c) Reduced LDL cholesterol, body weight, and diastolic blood pressure  
+   d) Increased insulin resistance  
+   e) Decreased bone density  
+
+2. **What daily almond dosage showed small weight reduction benefits?**  
+   a) 10 grams  
+   b) 20 grams  
+   c) 35 grams  
+   d) 50 grams  
+   e) 80 grams  
+
+3. **Which journal published the recent meta-analyses on almonds?**  
+   a) The Lancet  
+   b) Nutrition Today  
+   c) Current Developments in Nutrition Perspective  
+   d) Journal of Clinical Endocrinology  
+   e) Medical Nutrition Journal  
+
+4. **What organization funded the almond studies mentioned in the article?**  
+   a) WHO  
+   b) Indian Council of Medical Research  
+   c) Almond Board of California  
+   d) U.S. FDA  
+   e) Harvard Public Health Department  
+
+5. **What can be inferred about almonds in relation to medication like Acarbose?**  
+   a) Almonds are more effective than Acarbose  
+   b) Almonds provide comparable benefits in prediabetes reversal  
+   c) Acarbose is less safe than almonds  
+   d) Almonds cause side effects unlike Acarbose  
+   e) Acarbose and almonds should never be combined  
+
+6. **Why does Dr. Misra recommend adjusting calories when increasing almond intake?**  
+   a) To avoid malnutrition  
+   b) To prevent almond addiction  
+   c) To manage overall calorie intake effectively  
+   d) Because almonds increase appetite  
+   e) Because almonds reduce nutrient absorption  
+
+7. **If someone with prediabetes consumes 20 g of almonds 30 minutes before meals, what is the likely health outcome based on the article?**  
+   a) Significant weight gain  
+   b) No change in insulin resistance  
+   c) Improved glycemic control and waist size  
+   d) Higher fasting glucose levels  
+   e) Decreased absorption of fiber  
+
+8. **Why might almonds be considered a good dietary addition for those with cardiometabolic risks?**  
+   a) They reduce physical activity needs  
+   b) They suppress immune function  
+   c) They contain β-sitosterol and healthy fats that help lower LDL  
+   d) They increase HDL cholesterol only  
+   e) They have sedative effects  
+
+### Answer Key
+
+1. c  
+2. d  
+3. c  
+4. c  
+5. b  
+6. c  
+7. c  
+8. c  
+
+### Article Summary
+
+Recent studies show that eating almonds has many health benefits. Almonds can help slightly reduce body weight, bad cholesterol (LDL), and blood pressure, and they also improve blood sugar levels — especially in Asian Indians. The studies, published in a trusted science journal, found that eating about 50 grams of almonds daily can lower cholesterol and may help people lose some weight. For people at risk of chronic diseases, almonds can reduce LDL cholesterol by around 5 %.
+
+Dr. Anoop Misra (Fortis C-DOC, New Delhi) explained that almonds contain healthy fats, fiber, and β-sitosterol, all of which help lower bad cholesterol. In another study, eating 20 grams of almonds before meals improved weight, blood sugar, and insulin resistance in people with prediabetes; about 23 % of those people returned to normal blood sugar levels (a result similar to diabetes medication). Dr. Misra recommends eating a small handful of almonds in the morning and evening. People with diabetes can eat them as snacks between or before meals for better blood sugar control.
+
+### Parajumble Practice Questions
+
+**Q1:**  
+A. The rising temperatures are melting glaciers at an unprecedented rate.  
+B. As a result, sea levels are increasing and threatening coastal cities.  
+C. In recent years, scientists have observed drastic shifts in global climate patterns.  
+D. These shifts are largely driven by excessive carbon emissions from human activities which increase the global temperature.  
+E. Moreover, erratic weather events such as floods and droughts are becoming more frequent.  
+
+**Q2:**  
+A. The sudden closure of educational institutions left students and teachers looking for alternatives.  
+B. As a result, many turned to online platforms to continue the learning process.  
+C. During the pandemic, the education system faced an unprecedented disruption.  
+D. This shift, though challenging at first, opened new possibilities in digital learning.  
+E. Consequently, ed-tech companies began innovating rapidly to meet the rising demand.  
+
+**Q3:**  
+A. Over the years, yoga has emerged as a popular form of exercise.  
+B. It helps relieve stress, improves flexibility, and strengthens the immune system.  
+C. Given these health benefits, yoga has gained recognition in the medical community.  
+D. As a result, many doctors now recommend yoga as a part of daily routine.  
+E. These physical and mental advantages have made yoga a preferred choice for people of all age groups.  
+
+**Q4:**  
+A. As a result, a growing number of consumers are now actively choosing EVs over traditional cars.  
+B. To encourage this trend, governments across the world are offering financial incentives and policy support.  
+C. These efforts aim to speed up the adoption of electric vehicles and reduce environmental damage.  
+D. The global shift towards electric mobility has accelerated over the past few years.  
+E. In response, automobile companies are rapidly expanding their electric vehicle offerings.  
+
+**Q5:**  
+A. The shift is largely due to the increasing convenience and variety of products available online.  
+B. In recent years, e-commerce has seen significant growth, especially in urban areas.  
+C. As more people access the internet, the number of online shoppers continues to rise.  
+D. Online shopping platforms also offer various discounts and home delivery options, attracting more customers.  
+E. Consequently, traditional retail stores are facing greater competition from online marketplaces.  
+
+**Q6:**  
+A. As a result, many countries are shifting their focus toward renewable sources of energy.  
+B. This shift is driven by the need to reduce dependence on fossil fuels and mitigate environmental harm.  
+C. Clean energy solutions, such as solar and wind power, have gained popularity in recent years.  
+D. Governments are responding by investing heavily in research and development to enhance these technologies.  
+E. Over time, these efforts will lead to a more sustainable and eco-friendly future.  
+
+**Q7:**  
+A. Many businesses and individuals now use social media platforms for advertising and marketing.  
+B. This has led to a major shift in the way we communicate and interact with each other.  
+C. Social media has become an integral part of daily life, influencing various aspects of society.  
+D. However, its growing influence has raised concerns about privacy and the spread of misinformation.  
+E. Despite these challenges, social media continues to grow and evolve, shaping modern society.  
+
+**Q8:**  
+A. In recent years, cancer care infrastructure in India has seen significant improvement.  
+B. However, access to such services remains a challenge, particularly in rural areas.  
+C. To address this, the government has initiated several programs aimed at expanding cancer treatment facilities.  
+D. Furthermore, a major step forward has been the establishment of new cancer hospitals in underserved regions.  
+E. Ultimately, these efforts are essential in bridging the gap between urban and rural healthcare services.  
+
+**Q9:**  
+A. The survey found that less than 50 % of public tertiary hospitals had stocks of essential cancer-treating drugs and lacked necessary infrastructure for radiotherapy and chemotherapy.  
+B. The study also highlights that the availability of childhood cancer care services is higher in private and NGO-managed hospitals compared to public hospitals.  
+C. A recent survey published in *The Lancet, Regional Health – South-East Asia* assessed childhood cancer care services across India.  
+D. In light of these findings, the survey emphasizes the urgent need for a dedicated childhood cancer policy to ensure timely and universal access to care.  
+E. Therefore, it is crucial to integrate childhood cancer care into the national cancer control strategy as a priority.  
+
+**Q10:**  
+A. Public transport is used by millions every day.  
+B. However, many buses and trains are overcrowded and old.  
+C. To solve this, the government is adding more modern vehicles.  
+D. These changes are making daily travel smoother and faster.  
+E. As a result, more people are choosing public transport over private cars.  
+
+**Q11:**  
+A. Many people now use mobile apps to pay for things.  
+B. Earlier, most payments were made in cash.  
+C. But with smartphones and the internet, this is changing.  
+D. Shops and markets have also started accepting digital payments, making transactions easier for customers.  
+E. As a result, payments are now faster and more convenient.  
+
+**Q12:**  
+A. During the pandemic, many people started working from home.  
+B. This helped reduce travel time and gave employees more flexibility.  
+C. Even after offices reopened, some companies continued this model.  
+D. As this model continued, many workers experienced better work-life balance.  
+E. However, some people still prefer going to the office for better focus.  
