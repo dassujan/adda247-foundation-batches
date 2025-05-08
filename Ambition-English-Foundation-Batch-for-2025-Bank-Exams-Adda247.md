@@ -1962,6 +1962,12 @@ Anoop Misra, a senior diabetologist from the Fortis C-DOC Center for Diabetes, O
 
 Dr. Misra adds context from his own research: Over a three-month period, his team had participants consume 20 grams of almonds 30 minutes before each major meal. They found significant improvements in body weight, waist circumference, glycemic control (particularly postprandial glucose), and insulin resistance. Notably, 23.3 % of participants in the almond group reverted from prediabetes to normal glucose regulation, a figure comparable to results seen with the medication Acarbose (25 %).
 
+“My advice is to have almonds, half a fistful each in the morning and evening. For people with diabetes, they can have it as a snack in between meals or 30 minutes before meals (based on our study). In some people, to enhance efficacy, this may be increased after deleting some calories from other items (like 20g) two to three times daily,” he explains.
+
+consuming,peer,ameliorate,significant ,circumference,fistful,reversal
+
+Here’s a detailed breakdown for each of the words you listed:
+
 > **Dr. Misra’s advice:**  
 > “Have almonds, half a fistful each in the morning and evening. People with diabetes can have them as a snack between meals or 30 minutes before meals (based on our study). In some people, to enhance efficacy, this may be increased (for example, eating 20 g two or three times daily) after reducing calories from other items.”
 
@@ -2098,14 +2104,7 @@ Dr. Misra adds context from his own research: Over a three-month period, his tea
 
 ### Answer Key
 
-1. c  
-2. d  
-3. c  
-4. c  
-5. b  
-6. c  
-7. c  
-8. c  
+1. c  ,2. d  ,3. c  ,4. c  ,5. b  ,6. c  ,7. c  ,8. c  
 
 ### Article Summary
 
