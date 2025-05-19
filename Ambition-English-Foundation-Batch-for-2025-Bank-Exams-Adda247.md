@@ -2197,3 +2197,241 @@ B. This helped reduce travel time and gave employees more flexibility.
 C. Even after offices reopened, some companies continued this model.  
 D. As this model continued, many workers experienced better work-life balance.  
 E. However, some people still prefer going to the office for better focus.  
+
+# 020. Single fillers Basic and golden rules
+
+**SINGLE FILLERS (Moderate-Difficult)**
+
+**Multiple-Choice Questions**
+
+1. The recent surge in wheat prices has prompted the government to consider releasing buffer stocks to \_\_\_\_\_\_\_\_\_\_ the impact on retail inflation.
+
+   * A) aggravate
+   * B) amplify
+   * C) mitigate
+   * D) prolong
+   * E) neglect
+   * **Correct Answer:** C) mitigate
+   * **Explanation:** The context implies reducing the harmful impact on inflation. *Mitigate* means to lessen or reduce something harmful. Other options (aggravate, amplify, prolong, neglect) would worsen or ignore the problem, which does not fit the context of alleviating inflationary pressure.
+
+2. While the central bank has taken several measures to stabilise the rupee, experts believe that a long-term solution requires a \_\_\_\_\_\_\_\_\_\_ approach involving structural reforms.
+
+   * A) myopic
+   * B) fragmented
+   * C) comprehensive
+   * D) superficial
+   * E) redundant
+   * **Correct Answer:** C) comprehensive
+   * **Explanation:** A long-term solution needs to be broad and inclusive, so a *comprehensive* approach fits best. The term implies covering all aspects of the problem. The other options suggest short-sighted, disjointed, or unnecessary efforts, which are not suitable for a lasting solution.
+
+3. Despite several warnings from environmentalists, the authorities continued with the construction project, drawing criticism for their \_\_\_\_\_\_\_\_\_\_ disregard for ecological concerns.
+
+   * A) meticulous
+   * B) blatant
+   * C) cautious
+   * D) ambiguous
+   * E) negligent
+   * **Correct Answer:** B) blatant
+   * **Explanation:** *Blatant disregard* is a common collocation meaning open and obvious neglect, which matches the criticism described. The authorities’ actions imply an unashamed or obvious disregard. The other choices (meticulous, cautious, ambiguous, negligent) are either positive or weaker terms and do not convey the strong, overt nature of the disregard implied by "blatant."
+
+4. The panel’s report was expected to offer clarity, but its vague recommendations only \_\_\_\_\_\_\_\_\_\_ the confusion surrounding the policy.
+
+   * A) alleviated
+   * B) deepened
+   * C) clarified
+   * D) eradicated
+   * E) addressed
+   * **Correct Answer:** B) deepened
+   * **Explanation:** Since the report’s recommendations were vague, they increased confusion. *Deepened* means made more intense or worse, which fits the situation. The other options imply reducing confusion (alleviated, clarified, eradicated, addressed), which contradicts the outcome described.
+
+5. With the monsoon arriving earlier than expected, farmers in the region are \_\_\_\_\_\_\_\_\_\_ optimistic about a good harvest this year.
+
+   * A) cautiously
+   * B) barely
+   * C) inexplicably
+   * D) conditionally
+   * E) vehemently
+   * **Correct Answer:** A) cautiously
+   * **Explanation:** Farmers often say they are *cautiously optimistic* when a favorable condition is uncertain. This means they are hopeful but remain guarded. The other adverbs do not fit the common phrase or the context: "barely optimistic" and "vehemently optimistic" are unlikely phrases, and "inexplicably" or "conditionally" do not accurately convey measured hopefulness.
+
+6. The government’s emphasis on digital infrastructure has been widely welcomed, but critics warn that it must not come at the \_\_\_\_\_\_\_\_\_\_ of data privacy.
+
+   * A) cost
+   * B) benefit
+   * C) inception
+   * D) height
+   * E) utility
+   * **Correct Answer:** A) cost
+   * **Explanation:** The idiom *“at the cost of”* means sacrificing one thing for another. Critics are concerned that improving digital infrastructure should not sacrifice data privacy. The other options do not form this idiomatic expression (e.g., "benefit of data privacy" would be nonsensical in context).
+
+7. The court’s verdict was seen as a \_\_\_\_\_\_\_\_\_\_ moment in the country’s fight against corruption.
+
+   * A) trivial
+   * B) landmark
+   * C) peripheral
+   * D) controversial
+   * E) negligent
+   * **Correct Answer:** B) landmark
+   * **Explanation:** A *landmark* moment refers to a very significant or historic event. The verdict is implied to be a decisive turning point. The other words do not fit: "trivial" is too minor, "peripheral" means marginal, and "controversial" or "negligent" do not convey significance.
+
+8. The company’s profits fell sharply last quarter, largely due to \_\_\_\_\_\_\_\_\_\_ in consumer demand and rising input costs.
+
+   * A) inflation
+   * B) stagnation
+   * C) surge
+   * D) slump
+   * E) boom
+   * **Correct Answer:** D) slump
+   * **Explanation:** A *slump* indicates a sudden or severe drop, which matches the fall in profits due to reduced consumer demand. The other options don’t fit: "surge" and "boom" are opposite (increases), while "inflation" and "stagnation" are unrelated in this context.
+
+9. India’s strategic partnership with multiple countries reflects its \_\_\_\_\_\_\_\_\_\_ foreign policy stance in a multipolar world.
+
+   * A) rigid
+   * B) isolated
+   * C) pragmatic
+   * D) erratic
+   * E) unilateral
+   * **Correct Answer:** C) pragmatic
+   * **Explanation:** A *pragmatic* stance is practical and flexible, which suits a policy of engaging multiple partners. In a multipolar world, India’s approach is based on practicality. The other options imply being inflexible (rigid, unilateral) or inconsistent (erratic) or withdrawn (isolated), which do not describe the strategic partnership approach.
+
+10. Despite repeated assurances, the authorities have failed to \_\_\_\_\_\_\_\_\_\_ a solution to the recurring water crisis in the city.
+
+    * A) eliminate
+    * B) devise
+    * C) reject
+    * D) provoke
+    * E) isolate
+    * **Correct Answer:** B) devise
+    * **Explanation:** To *devise* a solution means to come up with or formulate one. The authorities have not successfully come up with a solution. The other verbs do not make sense in context: "eliminate a solution" is illogical, and "reject", "provoke", "isolate" do not fit the idea of solving a problem.
+
+11. The NGO’s campaign against child labour received international praise for its \_\_\_\_\_\_\_\_\_\_ impact in rural areas.
+
+    * A) negligible
+    * B) adverse
+    * C) transformative
+    * D) clandestine
+    * E) ambiguous
+    * **Correct Answer:** C) transformative
+    * **Explanation:** *Transformative* means causing major change. An international praise suggests the campaign had a very positive, significant effect. The other options are either negative, hiding, or unclear, none of which match the positive acclaim described.
+
+12. The minister’s comments were seen as an attempt to \_\_\_\_\_\_\_\_\_\_ tensions after the controversial legislation was passed.
+
+    * A) provoke
+    * B) incite
+    * C) soothe
+    * D) escalate
+    * E) intensify
+    * **Correct Answer:** C) soothe
+    * **Explanation:** To *soothe* tensions means to calm them down. The context implies the minister wanted to ease tensions. The other choices (provoke, incite, escalate, intensify) would increase or stir up tensions, which is opposite the intended meaning.
+
+13. The rise in fuel prices has had a \_\_\_\_\_\_\_\_\_\_ effect on transportation and food supply chains.
+
+    * A) dormant
+    * B) benign
+    * C) ripple
+    * D) stagnant
+    * E) cosmetic
+    * **Correct Answer:** C) ripple
+    * **Explanation:** A *ripple effect* refers to the spread of an effect through a system. Here, higher fuel prices create secondary impacts (ripples) on related sectors. The other adjectives do not convey this propagation: "dormant" or "benign" suggest no effect, "stagnant" or "cosmetic" are inappropriate.
+
+14. India’s demographic dividend can be fully realised only if its youth are equipped with the necessary skills and \_\_\_\_\_\_\_\_\_\_.
+
+    * A) opportunities
+    * B) resistance
+    * C) distractions
+    * D) confusion
+    * E) grievances
+    * **Correct Answer:** A) opportunities
+    * **Explanation:** Youth need *skills and opportunities* to realize the demographic dividend. The other options (resistance, distractions, confusion, grievances) are negative or irrelevant and do not help in realizing potential.
+
+15. The protestors demanded that the committee’s findings be made public to ensure complete \_\_\_\_\_\_\_\_\_\_.
+
+    * A) secrecy
+    * B) transparency
+    * C) bureaucracy
+    * D) complexity
+    * E) immunity
+    * **Correct Answer:** B) transparency
+    * **Explanation:** Protestors wanted openness, so *transparency* is required. Demanding findings be public opposes secrecy, bureaucracy, and complexity. "Immunity" is unrelated.
+
+16. In a democracy, the media plays a vital role in \_\_\_\_\_\_\_\_\_\_ the government accountable to the people.
+
+    * A) shielding
+    * B) holding
+    * C) avoiding
+    * D) eliminating
+    * E) withdrawing
+    * **Correct Answer:** B) holding
+    * **Explanation:** The phrase is *holding the government accountable*. The media helps ensure accountability. The other verbs do not fit this commonly used expression.
+
+17. The startup ecosystem in India has seen exponential growth, driven by innovation and \_\_\_\_\_\_\_\_\_\_ support from investors.
+
+    * A) lukewarm
+    * B) negligible
+    * C) robust
+    * D) indifferent
+    * E) erratic
+    * **Correct Answer:** C) robust
+    * **Explanation:** *Robust support* means strong support, which matches the context of growth. The other adjectives (lukewarm, negligible, indifferent, erratic) imply weak or inconsistent support, which contradicts the described growth.
+
+18. While the initiative appears noble, critics argue that it may \_\_\_\_\_\_\_\_\_\_ deep-rooted inequalities instead of addressing them.
+
+    * A) conceal
+    * B) exaggerate
+    * C) perpetuate
+    * D) eliminate
+    * E) clarify
+    * **Correct Answer:** C) perpetuate
+    * **Explanation:** Critics fear it will *perpetuate* (continue) inequalities rather than solve them. "Perpetuate" means to make something continue indefinitely. The other options do not fit this concern: concealing or clarifying inequalities is not implied, eliminating would solve them (opposite of the criticism), and exaggerate is less precise.
+
+19. Many developing countries struggle to strike a balance between environmental protection and economic \_\_\_\_\_\_\_\_\_\_.
+
+    * A) stagnation
+    * B) growth
+    * C) collapse
+    * D) inflation
+    * E) disparity
+    * **Correct Answer:** B) growth
+    * **Explanation:** The balance is typically between environmental protection and economic *growth*. The other choices (stagnation, collapse, inflation, disparity) are not logical antonyms to environmental protection in this context.
+
+20. The sudden resignation of the CEO sent shockwaves through the corporate world, sparking \_\_\_\_\_\_\_\_\_\_ about the company’s future.
+
+    * A) celebration
+    * B) speculation
+    * C) certainty
+    * D) resignation
+    * E) enforcement
+    * **Correct Answer:** B) speculation
+    * **Explanation:** A shocking event often leads to *speculation* about what will happen next. The other options do not fit the scenario: "celebration" or "certainty" are inappropriate responses, and "resignation" or "enforcement" do not make sense here.
+
+## Vocabulary List
+
+* **Disrupts** (Verb)
+
+  * Synonyms: Derange, Dislocate, Sabotage, Upend
+  * Antonyms: Stabilize, Consolidate, Facilitate, Maintain
+  * Example sentence: *The sudden disruption in power delayed the entire schedule.*
+
+* **Hazard** (Noun)
+
+  * Synonyms: Precariousness, Endangerment, Imperilment, Treachery
+  * Antonyms: Immunity, Invulnerability, Preservation, Assurance
+  * Example sentence: *The road was hazardous after the heavy rains.*
+
+* **Ingestion** (Noun)
+
+  * Synonyms: Incorporation, Internalization, Imbibition, Deglutition
+  * Antonyms: Excretion, Emission, Evacuation, Regurgitation
+  * Example sentence: *He accidentally ingested a small piece of plastic with his food.*
+
+* **Contemporary** (Adjective/Noun)
+
+  * Synonyms: Coeval, Synchronous, Simultaneous, Modern
+  * Antonyms: Anachronistic, Obsolete, Antiquated, Outdated
+  * Example sentence: *His artwork reflects a contemporary approach to classical subjects.*
+
+* **Primitive** (Adjective)
+
+  * Synonyms: Primeval, Archaic, Primal, Antecedent
+  * Antonyms: Progressive, Refined, Cultivated, Evolutionary
+  * Example sentence: *The tribe’s primitiveness fascinated the anthropologists.*
