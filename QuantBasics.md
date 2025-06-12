@@ -1,9 +1,9 @@
-# Squares and Consecutive Products of Nos
+# Squares and Consecutive Products of Two No.
 
 ## Squares of Numbers 1 to 150
 
 
-| n = n²       | n = n²       | n = n²       | n = n²       | n = n²       |
+| n² = Product | n² = Product | n² = Product | n² = Product | n² = Product |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 1² = 1       | 2² = 4       |  3² = 9      | 4² = 16      | 5² = 25      |
 | 6² = 36      | 7² = 49      | 8² = 64      | 9² = 81      | 10² = 100    |
