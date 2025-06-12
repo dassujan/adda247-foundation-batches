@@ -1,4 +1,4 @@
-# Squares and Consecutive Products of Two No.
+# Squares and Consecutive Products of No.
 
 ## Squares of Numbers 1 to 150
 
